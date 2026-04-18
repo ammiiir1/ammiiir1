@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=ammiiir1&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -65,11 +65,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammiiir1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammiiir1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
