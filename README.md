@@ -18,8 +18,8 @@
 - 🧩 Full-stack: Node.js, Express, MongoDB, GraphQL, WebSockets, Firebase
 - 🤖 Actively building an **AI-assisted / spec-driven development** workflow (Claude Code, agentic tooling)
 - ⚡ Focused on performance, SSR, and scalable architecture
-- 🧪 Strong testing mindset — Vitest & Playwright (Unit + E2E)
-- 🌍 Based in Bucharest, Romania — open to EU / UK / Remote
+- 🧪 Strong testing mindset: Vitest & Playwright (Unit + E2E)
+- 🌍 Based in Bucharest, Romania: open to EU / UK / Remote
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🔥 What I Do
 
-- Lead frontend architecture for complex products — booking systems, ERPs, payment platforms
+- Lead frontend architecture for complex products: booking systems, ERPs, payment platforms
 - Build high-performance SSR applications with Vue/Nuxt and Next.js
 - Design clean, testable, scalable codebases from the ground up
 - Integrate payment gateways (Stripe, crypto, and more) end-to-end
@@ -54,25 +54,25 @@
 
 ## 🧩 Highlight Projects
 
-- 💳 **Tadilo B2C Booking Platform** — built with Stripe, crypto, and multiple payment gateway integrations
-- 💸 **MiroPay** & **Dassfund ERP** — fintech / payment systems
-- 🪙 **Nuwa Coin** & **Offense Coin** — crypto-related platforms
-- 🏢 **Booking System ERP** & **Terminal101** — enterprise booking & operations tools
-- 🛒 **Easybestell** — e-commerce platform
-- 🧠 **dLabel** — AI data annotation platform
-- 🏛️ **Arak Provincial Government Portal** & **Asan Service** — public sector digital services
-- 🐎 **Horse Racing Simulation** — Nuxt/Vue/Pinia/Playwright side project
+- 💳 **Tadilo B2C Booking Platform**: built with Stripe, crypto, and multiple payment gateway integrations
+- 💸 **MiroPay** & **Dassfund ERP**: fintech / payment systems
+- 🪙 **Nuwa Coin** & **Offense Coin**: crypto-related platforms
+- 🏢 **Booking System ERP** & **Terminal101**: enterprise booking & operations tools
+- 🛒 **Easybestell**: e-commerce platform
+- 🧠 **dLabel**: AI data annotation platform
+- 🏛️ **Arak Provincial Government Portal** & **Asan Service**: public sector digital services
+- 🐎 **Horse Racing Simulation**: Nuxt/Vue/Pinia/Playwright side project
 
 ---
 
 ## 💼 Experience
 
-- **Frontend Developer** @ Tadilo *(2022 – 2025, Remote)* — Vue/Nuxt3 & React/Next, led frontend for key product features
+- **Frontend Developer** @ Tadilo *(2022 – 2025, Remote)*: Vue/Nuxt3 & React/Next, led frontend for key product features
 - **Full-Stack Developer** @ Freelance *(2021 – 2022)*
-- **Full-Stack Developer / Lead** @ Danak Corporation *(2018 – 2021)* — led full-stack development, mentored juniors
+- **Full-Stack Developer / Lead** @ Danak Corporation *(2018 – 2021)*: led full-stack development, mentored juniors
 - **Frontend Developer Intern** @ Termeh *(2017 – 2018)*
 
-**Education:** M.Sc. Computer Software Engineering & B.Sc. IT — IAU Arak
+**Education:** M.Sc. Computer Software Engineering & B.Sc. IT, IAU Arak
 
 ---
 
@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  ⚡ "I build fast, scalable, and testable web systems — increasingly with AI-assisted workflows."
+  ⚡ "I build fast, scalable, and testable web systems: increasingly with AI-assisted workflows."
 </p>
