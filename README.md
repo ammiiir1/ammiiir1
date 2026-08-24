@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Amir</h1>
-<h3 align="center">Senior AI-Assisted Full-Stack Developer | 8+ Years | React/Next · Vue/Nuxt · Node.js</h3>
+<h3 align="center">Senior Full-Stack Engineer | 8+ Years | AI-Assisted & Agentic Development | React/Next · Vue/Nuxt · Node.js</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ammiiir1&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,11 +9,15 @@
 
 ## 🧠 About Me
 
-8+ years building production web applications across the full stack: Vue/Nuxt, React/Next, Node.js. Strong focus on SSR, performance optimization, and animation-heavy UI with GSAP and Motion. Led frontend and full-stack teams, including a CTO role. Shipped payment integrations (Stripe, crypto, and other gateways) and built booking and ERP platforms end to end.
+8+ years building and shipping production web applications across the full stack: Vue/Nuxt, React/Next.js, and Node.js.
 
-Currently working spec-driven, directing AI coding agents (including Claude) to implement and iterate faster while keeping architecture and code quality under my control.
+I started coding long before AI tooling became part of the workflow, which gave me a strong foundation in understanding systems rather than just generating code. Today I build and use my own agentic workflows and skills around how I actually work, using AI to move faster while keeping engineering quality, architecture, and technical decisions firmly in my hands.
 
-Based in Bucharest, Romania. Valid work permit, no sponsorship needed. Open to full-time, contract, or freelance work.
+Strong focus on SSR, performance optimization, and animation-heavy interfaces with GSAP and Motion.
+
+Led frontend and full-stack teams, including a CTO role. Shipped products end to end, from booking and ERP platforms to payment integrations with Stripe, crypto, and a wide range of regional and bank-specific gateways.
+
+Based in Bucharest 🇷🇴 with a valid work permit and no sponsorship required. Open to full-time, contract, and freelance opportunities.
 
 ## 🛠️ Tech Stack
 
@@ -23,15 +27,16 @@ Based in Bucharest, Romania. Valid work permit, no sponsorship needed. Open to f
 **Backend**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" /></p>
 
-**Tools & AI-Assisted Workflow**
+**Tools & Workflow**
 <p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode" /></p>
 
 ## 🔥 What I Do
 
-- Direct AI coding agents through spec-driven development, owning architecture and code quality while agents handle implementation
+- Build custom agentic workflows and skills around my own development process, shaped by 8+ years of hands-on engineering rather than generic tooling
+- Deliver projects spec-first, writing the full specification before implementation so architecture decisions stay deliberate instead of emerging from generated code
 - Build high-performance SSR applications with Vue/Nuxt and Next.js
 - Lead full-stack architecture for booking systems, ERPs, and payment platforms
-- Integrate payment gateways (Stripe, crypto, and others) across multiple products
+- Integrate payment gateways across multiple products: Stripe, crypto, and regional or bank-specific providers
 - Design testable, scalable codebases with Vitest and Playwright coverage
 
 ## 🧩 Highlight Projects
@@ -42,13 +47,13 @@ Based in Bucharest, Romania. Valid work permit, no sponsorship needed. Open to f
 - 🏢 **Booking ERP & Easybestell**: enterprise booking and e-commerce platforms
 - 🧠 **dLabel**: AI data annotation platform, frame management and annotation tooling
 - 🏛️ **Asan Service & Arak Provincial Government Portal**: public sector digital services
-- 🌐 **lyralabs.space**: personal portfolio built with Next.js, Tailwind, GSAP, and Motion
-- 📱 **QR Code Generator (iOS)**: native Swift app, in progress
+- 🌐 **lyralabs.space**: personal portfolio rebuilt from the ground up with Next.js, Tailwind, GSAP, and Motion, including a cinematic 3D loading sequence
+- 📱 **Native mobile**: currently extending into iOS development with Swift
 
 ## 💼 Experience
 
-- **AI-Assisted Full-Stack Developer** @ Self-Employed / Freelance (Feb 2026 – Present): spec-driven development, directing AI coding agents across Vue/Nuxt, React/Next, and Node.js
-- **Career Break / Professional Development** (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and AI-assisted engineering workflows
+- **Senior Full-Stack Engineer (Agentic Development)** @ Self-Employed / Freelance (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
+- **Career Break / Professional Development** (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and agentic AI engineering
 - **Senior Frontend Developer & Team Lead** @ MiroTech, formerly Tadilo (Apr 2022 – Dec 2025): led a team of 5–6 frontend developers across Tadilo, Terminal101, MiroPay, Booking ERP, Easybestell, and Dassfund
 - **Full-Stack Developer** @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
 - **Chief Technology Officer** @ Danak Corporation (Jan 2020 – May 2021): owned tech stack, architecture, and database design; managed 4 developers and 2 UI designers
@@ -60,10 +65,10 @@ Based in Bucharest, Romania. Valid work permit, no sponsorship needed. Open to f
 
 ## 🧪 Engineering Focus
 
+- Spec-driven development and custom agentic workflows
 - Unit testing (Vitest) and E2E testing (Playwright)
 - Component-driven architecture
 - Clean, scalable project structure
-- Spec-driven, AI-assisted development practices
 
 ## 📊 GitHub Stats
 
@@ -77,6 +82,7 @@ Based in Bucharest, Romania. Valid work permit, no sponsorship needed. Open to f
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/ammiiir1
+- Portfolio: https://lyralabs.space
 - Email: ammiiir1@gmail.com
 
-<p align="center">⚡ Building fast, scalable, testable web systems, increasingly with AI-assisted workflows.</p>
+<p align="center">⚡ Building fast, scalable, testable web systems, with agentic workflows built around how I actually work.</p>
