@@ -60,6 +60,7 @@ Freelance full-stack development across multiple clients, building and extending
 ## Associated Projects
 
 - [dLabel](../../projects/dlabel/README.md) — AI-based annotation web application (May 2021 – July 2021)
+- [Asan Service](../../projects/asan-service/README.md) — follow-on freelance work for Danak Corporation to extend and update the already-completed application (originally built at Danak, 2020 – 2021)
 
 ## Relevant Public Links
 

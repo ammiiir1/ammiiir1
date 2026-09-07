@@ -283,3 +283,15 @@ Verification: grep zero remaining "Front-end Development"; zero remaining portfo
 Fixed the slug example on the "Naming and slug conventions" line of `specs/career-profile.md`: `tadilo-b2c-booking-platform` → `tadilo-b2c-booking-service`, so the example matches the actual project directory name. No other spec content was touched.
 
 ---
+
+## 2026-09-07 — Clarify Asan Service dual-period history
+
+**docs(profile)**
+
+Updated src/projects/asan-service/README.md to accurately represent both periods: the original Danak Corporation development (2020 – 2021, kept as the primary relationship) and the later separate freelance engagement from Danak after 2021-05 to add a feature and update the already-completed application — phrased as follow-on extension work, not original development. Added the freelance experience to the project's Related Experience links, and added an Asan Service line under Associated Projects in src/experiences/full-stack-developer-self-employed/README.md clarifying it was follow-on work for Danak on an already-completed project (the existing verbatim responsibility bullet was left intact). All relative links verified to resolve in both directions; grep confirmed no wording implies Asan Service was originally built during the freelance period.
+
+Verification output:
+- Link resolution script: all 5 relative links resolve (OK), 0 failures
+- grep for freelance-built-Asan wording: no matches
+
+---

@@ -4,13 +4,15 @@ Warranty and guarantee service web application with a blog website, built solo a
 
 - **Role:** Full-Stack Developer
 - **Period:** 2020 – 2021
-- **Relationship:** client work at Danak Corporation
+- **Relationship:** client work at Danak Corporation; later extended as separate freelance work for Danak after the original engagement ended (see Related Experience)
 
 ## Overview
 
 Asan Service is a warranty-request system built around an existing internal inventory and warranty-management application that the company exposed via a web service. My application retrieved available parts from that web service, stored warranty-request forms in its own database, and also posted warranty requests to the internal system, storing the external reference returned by the web service locally so records stayed linked across both systems.
 
 I worked independently across the frontend and backend: database schema design, backend API routes and business logic, the frontend UI, registration and login, and printable invoices.
+
+After the original engagement ended, Danak Corporation separately hired me as a freelancer to return to the completed application — adding a new feature and updating it as follow-on work, not new development.
 
 ## Responsibilities & Contributions
 
@@ -39,3 +41,4 @@ I worked independently across the frontend and backend: database schema design, 
 
 - [Chief Technology Officer @ Danak Corporation](../../experiences/chief-technology-officer-danak-corporation/README.md) — period spans the CTO role
 - [Full-Stack Developer @ Danak Corporation](../../experiences/full-stack-developer-danak-corporation/README.md) — period spans the Full-Stack Developer role
+- [Full-Stack Developer @ Self-Employed / Freelance](../../experiences/full-stack-developer-self-employed/README.md) — later freelance engagement (after 2021-05) to add a feature and update the already-completed application
