@@ -43,7 +43,7 @@ Use this template as the skeleton for every new project record. Required fields 
 
 - <Technology>
 
-<!-- Skill naming: canonical names only — see "Skill naming" note below. -->
+<!-- Skill naming: exact canonical names (including parentheticals) in this list — see "Skill naming (Tech Stack section)" below. -->
 
 ## Public URL
 
@@ -92,9 +92,9 @@ Use this template as the skeleton for every new project record. Required fields 
 
 > **Before adding or changing any skill in this record, verify its canonical name in the root README Skills / Tech Stack registry. If the skill is new, register it there first, then reuse the exact same name here.**
 
-- Canonical names only — no locally invented aliases, no alternate spellings.
+- Canonical names only — no locally invented aliases, no alternate spellings. Use the exact registered name including any parenthetical qualifier.
+- Structured lists (this Tech Stack section) use exact canonical names; running prose may use widely recognized short forms (e.g. `GSAP`, `Swift`) where they aid readability.
 - Registry-first handling for new skills (see the canonical skill registry rules in [`career-profile.md`](./career-profile.md)).
-- Consistent casing and punctuation with the registry entry.
 
 ## Asset placement & relative linking
 

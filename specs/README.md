@@ -26,6 +26,6 @@ This repository is a public career record: a GitHub profile repository that pres
 
 When adding or updating any career content, read the relevant spec first, then follow it.
 
-**Canonical skill registry:** the root README's Skills / Tech Stack section is the single canonical registry of skill/technology names used anywhere in this repository. All skill references must match its exact spelling — see the "Canonical skill registry" rules in [`career-profile.md`](./career-profile.md).
+**Canonical skill registry:** the root README's Skills / Tech Stack section is the single canonical registry of skill/technology names used anywhere in this repository. Structured skill lists must match its exact registered name (parentheticals included); prose may use widely recognized short forms — see the "Canonical skill registry" rules in [`career-profile.md`](./career-profile.md).
 
 > Note: this `specs/` layout is **domain-specific authoring rules** for career content (`specs/<domain>.md`), not the generic spec-kit feature-spec layout (`specs/<feature>/spec.md`, `spec.md`/`INDEX.md`/`global.spec.md`). Do not apply the spec-kit feature-spec conventions here.

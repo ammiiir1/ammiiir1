@@ -114,3 +114,21 @@ verification: manual diff review against specs/experience.md template (no projec
 Replaced the freelance experience record's Technologies section with the 11 user-specified canonical skill names (Agentic Workflows, Agentic AI Development, Node.js, React.js, Vue.js, Next.js, Nuxt.js, MongoDB, GreenSock Animation Platform (GSAP), Three.js, Swift (Programming Language)). Registered the genuinely-new canonical names in the root README Tech Stack as plain-text bullet groups (React.js/Vue.js/Next.js/Nuxt.js under Frontend, Node.js/MongoDB under Backend, new Motion & 3D, Native & Mobile, AI & Agentic Development groups); skillicons icon rows preserved untouched. Other records left as-is (consistency sweep found no direct contradictions). Verified all README relative links resolve.
 
 ---
+
+## 2026-09-07 — Refine canonical skill naming rules for parentheticals and prose
+
+**docs(specs)**
+
+Refined the canonical skill registry rules across the specs so they stay coherent with the extended root README Skills / Tech Stack registry:
+
+- `specs/career-profile.md` (Canonical skill registry): added that canonical names are used exactly as registered, including any parenthetical qualifier (e.g. "GreenSock Animation Platform (GSAP)" — the parenthetical is part of the name, not an alias); that category groups are README presentation and may evolve without changing canonical names; and a one-line structured-lists-vs-prose rule (exact canonical names in structured lists, recognized short forms like GSAP/Swift tolerated in prose).
+- `specs/experience.md` / `specs/project.md`: skill-naming sections now require the exact registered name including parentheticals in the Technologies/Tech Stack lists, and allow recognized short forms in prose; template comments updated to match.
+- `specs/README.md`: governance line touched up for coherence (structured lists exact, prose tolerant).
+
+No registry contents enumerated in specs; README remains the sole registry. Relative links verified to resolve.
+
+Verification: link check across edited specs — all real links resolve (only template placeholders/examples flagged, pre-existing). `git diff` reviewed.
+
+Committed as docs(specs): no code or career-data files touched.
+
+---
