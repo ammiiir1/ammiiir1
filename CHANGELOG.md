@@ -140,3 +140,13 @@ Committed as docs(specs): no code or career-data files touched.
 Expanded the career-break record with user-provided copy (title "Career break", employment type Career break, Bucharest location, Dec 2025 – Feb 2026, new summary, bullets mapped to Responsibilities/Achievements, added lyralabs.space associated-project link). Reordered root README sections to About Me → Tech Stack → What I Do → Experience → Projects → Education (remainder unchanged). Experience index already sorted most-recent-first — verified, no changes needed. Languages section is absent in README; not invented per instructions.
 
 ---
+
+## 2026-09-07 — Add Languages, expand Education, register full canonical skill vocabulary
+
+**docs(profile)**
+
+README.md: added a Languages section (English — Professional working proficiency; Persian — Native or bilingual proficiency) after Education. Replaced the one-line Education summary with a detailed list (M.Sc. Computer Software Engineering 2019–2021 Grade 14; B.Sc. Information Technology 2014–2018 Grade 16.45, both Azad University (IAU)). Expanded the Tech Stack into the full canonical skill registry of 63 entries across 10 category groups (Frontend, Backend, State Management, Testing, Motion & 3D, Mobile & Desktop, AI & Agentic Development, Architecture & Practices, IT & Infrastructure, Tools & Workflow), skillicons rows intact. Normalized "Front-end Development" → canonical "Front-End Development" to match "Back-End Development" (user had supplied both casings; registered once). "ReduxTK" kept verbatim per user spelling.
+
+Validation: all 63 registry names verified present exactly once via exact-line grep; relative links resolve; no stale "Native & Mobile"/"Front-end Development" leftovers; no JSON/YAML registry.
+
+---

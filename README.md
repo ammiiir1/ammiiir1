@@ -30,26 +30,90 @@ Open to full-time, contract, and freelance opportunities.
 - Vue.js
 - Next.js
 - Nuxt.js
+- Nuxt3
+- Vue3
+- TypeScript
+- JavaScript
+- HTML
+- SCSS
+- Tailwind CSS
+- Bootstrap
+- jQuery
+- Element UI
+- SPA
+- SSG
+- CSR
+- SSR
+- PWA
+- I18n
 
 **Backend**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" /></p>
 
 - Node.js
+- Express.js
 - MongoDB
+- Mongoose.js
+- REST APIs
+- GraphQL
+- Socket.io
+- Web Scraping
+- XAMPP
+
+**State Management**
+
+- React Context
+- Zustand
+- ReduxTK
+- Redux
+- Vuex
+- Pinia
+
+**Testing**
+
+- Playwright
+- Jest
+- React Testing Library
+- Vitest
+- End-to-end Testing
+- Unit Testing
 
 **Motion & 3D**
 
 - GreenSock Animation Platform (GSAP)
 - Three.js
 
-**Native & Mobile**
+**Mobile & Desktop**
 
+- Capacitor
 - Swift (Programming Language)
 
 **AI & Agentic Development**
 
-- Agentic Workflows
 - Agentic AI Development
+- Agentic Workflows
+
+**Architecture & Practices**
+
+- Front-End Development
+- Back-End Development
+- Full-Stack Development
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Continuous Integration (CI)
+- Continuous Delivery (CD)
+
+**IT & Infrastructure**
+
+- Technical Support
+- Computer Networking
+- Software Troubleshooting
+- Windows
+- Linux
+- macOS
+- Computer Hardware
+- Network Switches
+- Computer Repair
+- Computer Hardware Troubleshooting
 
 **Tools & Workflow**
 <p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode" /></p>
@@ -87,7 +151,13 @@ Open to full-time, contract, and freelance opportunities.
 
 ## 🎓 Education
 
-**M.Sc. Computer Software Engineering & B.Sc. IT, IAU Arak**
+- **Azad University (IAU)** — Master's degree, Computer Software Engineering (2019 – 2021), Grade: 14
+- **Azad University (IAU)** — Bachelor's degree, Information Technology (2014 – 2018), Grade: 16.45
+
+## 🗣️ Languages
+
+- **English** — Professional working proficiency
+- **Persian** — Native or bilingual proficiency
 
 ## 🧪 Engineering Focus
 
