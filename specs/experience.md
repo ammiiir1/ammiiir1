@@ -12,7 +12,7 @@ Read [`career-profile.md`](./career-profile.md) first for repository-wide invari
 
 ## Template
 
-Copy this template verbatim for every new experience record. Required fields must be present; optional sections are included **only when the information is known** — never invent content for them.
+Use this template as the skeleton for every new experience record. Required fields must be present; optional sections are included **only when the information is known** — never invent content for them, and omit optional sections entirely when their information is unknown.
 
 ```markdown
 # <Role / Title> @ <Organization>
@@ -60,7 +60,7 @@ Copy this template verbatim for every new experience record. Required fields mus
 |---|---|
 | **Employment type** | Include when known. |
 | **Location** | Include when known. Note remote/on-site as actually known. |
-| **End date** | In the `Period:` line. Omit the section-level impact: for current roles use `Present`; for unknown end dates with a known start, write only the start (e.g. `2022-04 –`). |
+| **End date** | In the `Period:` line. Use `Present` for current roles; for a known start with an unknown end, write only the start (e.g. `2022-04 –`). |
 | **Overview** | 1–3 sentences directly under the heading. Scope and context only — no duplicated detail from later sections. |
 | **Responsibilities** | Bullet list. What the person was responsible for, as known. |
 | **Achievements & Highlights** | Bullet list. Concrete outcomes and notable work, as known. Omit entirely if none are known. |

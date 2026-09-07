@@ -12,7 +12,7 @@ Read [`career-profile.md`](./career-profile.md) first for repository-wide invari
 
 ## Template
 
-Copy this template verbatim for every new project record. Required fields must be present; optional sections are included **only when the information is known** — never invent content for them.
+Use this template as the skeleton for every new project record. Required fields must be present; optional sections are included **only when the information is known** — never invent content for them, and omit optional sections entirely when their information is unknown.
 
 ```markdown
 # <Project Name>
@@ -112,7 +112,7 @@ The project record owns the **project perspective** (what the project is and how
 
 ## Rules recap
 
-- One project per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions.
+- One project per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions. **Exception:** a record may bundle closely related projects when they were introduced as a single line of work in the source and splitting them would require inventing facts — see the bundling exception in [`career-profile.md`](./career-profile.md). Bundled records use a hyphen-joined slug of the member projects and keep each member's facts internally separated.
 - Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`career-profile.md`](./career-profile.md)).
 - All content is public by definition; never add non-public information. Public URL and Repository URL sections carry public links only.
 - Adding, renaming, or removing a project record requires updating the root README project index in the same change.

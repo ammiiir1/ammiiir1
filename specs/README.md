@@ -25,3 +25,5 @@ This repository is a public career record: a GitHub profile repository that pres
 - This `specs/` directory contains the **rules**, not duplicate career facts. Specs define how future career data must be added and updated; they never restate, summarize, or duplicate the career data itself.
 
 When adding or updating any career content, read the relevant spec first, then follow it.
+
+> Note: this `specs/` layout is **domain-specific authoring rules** for career content (`specs/<domain>.md`), not the generic spec-kit feature-spec layout (`specs/<feature>/spec.md`, `spec.md`/`INDEX.md`/`global.spec.md`). Do not apply the spec-kit feature-spec conventions here.

@@ -41,3 +41,19 @@ git diff --stat: README.md only, clean tree after commit
 ```
 
 ---
+
+## 2026-09-07 — Spec consistency fixes from structure audit
+
+**docs(specs)**
+
+Auditor findings applied to specs/ only (no src/ or README.md changes):
+
+- **Bundling exception (medium):** specs now explicitly allow a project record to bundle closely related projects when the source treats them as a single line of work and splitting them would require invented facts (covers `miropay-dassfund-erp`, `booking-erp-easybestell`, `asan-service-arak-provincial-government-portal`). Bundled records use a hyphen-joined slug and keep member facts internally separated. Added a dedicated section to `career-profile.md` and an exception clause in `project.md`'s rules recap.
+- **"Copy verbatim" contradiction (low):** template preamble in `experience.md` and `project.md` rephrased — the template is a skeleton; required fields included, optional sections omitted when unknown.
+- **Garbled sentence (low):** `experience.md` end-date rule rewritten to "Use `Present` for current roles; for a known start with an unknown end, write only the start (e.g. `2022-04 –`)."
+- **CHANGELOG gap (low):** `career-profile.md` content-types table now lists `/CHANGELOG.md` as a workflow/bookkeeping artifact outside the career-data rules.
+- **specs/README.md:** added a note that this specs/ layout is domain-specific authoring rules, not the spec-kit feature-spec layout.
+
+Verification: all spec-to-spec markdown links resolve; flagged links are pre-existing inline code examples. Out of scope (coder): Native Mobile casing, terminal101 redundancy in src/.
+
+---

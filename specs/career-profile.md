@@ -10,8 +10,9 @@ These rules apply to the entire repository. The per-record templates live in [`e
 |---|---|---|
 | Root README | `/README.md` | Public landing page **and** canonical index of the repository. |
 | Experience records | `src/experiences/<experience-slug>/README.md` | The full, authoritative record of one role/position. |
-| Project records | `src/projects/<project-slug>/README.md` | The full, authoritative record of one project. |
+| Project records | `src/projects/<project-slug>/README.md` | The full, authoritative record of one project (bundled records allowed — see the bundling exception below). |
 | Project assets | `src/projects/<project-slug>/assets/` | Media belonging to a project (only when assets exist). |
+| CHANGELOG | `/CHANGELOG.md` | Workflow/bookkeeping artifact — outside the career-data rules. |
 | Specs | `specs/` | Rules only — never career data. |
 
 ## Root README responsibilities
@@ -53,6 +54,19 @@ Each `src/projects/<project-slug>/README.md`:
 - holds everything known about that project: description, role, contributions, tech stack, links, media,
 - links to related experience records rather than duplicating them,
 - is referenced from the root README's project index.
+
+## Bundling exception (projects)
+
+A project record MAY bundle closely related projects — but only when **both** hold:
+
+1. the source material introduces or treats them as a **single line of work**, and
+2. distinguishing them individually would require **inventing facts** the source does not provide.
+
+Rules for bundled records:
+
+- Name the directory with the slugs of all member projects joined by hyphens (e.g. `miropay-dassfund-erp`).
+- Keep each member project's facts internally separated (its own name, description, role, period, links) — never blend them into one merged narrative.
+- Apply this exception only to projects; experience records are always one role per directory.
 
 ## Source of truth: canonical vs derived
 
