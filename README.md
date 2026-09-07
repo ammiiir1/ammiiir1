@@ -57,6 +57,11 @@ Open to full-time, contract, and freelance opportunities.
 - REST APIs
 - GraphQL
 - Socket.io
+- WebSocket
+- PHP (Laravel)
+- PHP
+- Python
+- MySQL
 - Web Scraping
 - XAMPP
 
@@ -86,7 +91,12 @@ Open to full-time, contract, and freelance opportunities.
 **Mobile & Desktop**
 
 - Capacitor
+- React Native
 - Swift (Programming Language)
+
+**Data & Content Services**
+
+- Firebase
 
 **AI & Agentic Development**
 
@@ -146,14 +156,50 @@ Open to full-time, contract, and freelance opportunities.
 
 ## 🧩 Projects
 
-- 💳 [Tadilo B2C Booking Platform](src/projects/tadilo-b2c-booking-platform/README.md) — Vue/Nuxt travel booking with Stripe and crypto payment integrations
-- 🏢 [Terminal101](src/projects/terminal101/README.md) — B2B booking platform
-- 💸 [MiroPay & Dassfund ERP](src/projects/miropay-dassfund-erp/README.md) — fintech and payment systems
-- 🏢 [Booking ERP & Easybestell](src/projects/booking-erp-easybestell/README.md) — enterprise booking and e-commerce platforms
-- 🧠 [dLabel](src/projects/dlabel/README.md) — AI data annotation platform, frame management and annotation tooling
+**MIROTECH GROUP** (2022 – 2025)
 
-- 🌐 [lyralabs.space](src/projects/lyralabs-space/README.md) — personal portfolio rebuilt from the ground up with Next.js, Tailwind, GSAP, and Motion, including a cinematic 3D loading sequence
-- 📱 [Native mobile](src/projects/native-mobile-ios/README.md) — currently extending into iOS development with Swift
+- 🧭 [Booking System ERP](src/projects/booking-system-erp/README.md) — management system for booking projects (customers, staff, support team)
+- 💳 [MiroPay — Merchant Panel](src/projects/miropay-merchant-panel/README.md) — payments platform similar to PayPal, focusing on scalability and clean UI
+- 🧑‍💼 [MiroPay — Staff Panel](src/projects/miropay-staff-panel/README.md) — staff dashboard for the MiroPay payments platform
+- 🎮 [Pahlawan (WebView)](src/projects/pahlawan-webview/README.md) — WebView page for a native mobile game
+- ✈️ [Tadilo (B2C Booking Service)](src/projects/tadilo-b2c-booking-service/README.md) — flight and hotel booking service
+- 🏢 [Terminal101 (B2B Booking Service)](src/projects/terminal101-b2b-booking-service/README.md) — B2B booking service
+- 🛠️ [Easybestell (Admin Panel)](src/projects/easybestell-admin-panel/README.md) — manage staff, couriers, customers, and reports
+- 🛒 [Easybestell (Online Ordering App for Clients)](src/projects/easybestell-online-ordering-app/README.md) — online food order application for restaurant customers
+- 🍽️ [Easybestell (Restaurant Management App)](src/projects/easybestell-restaurant-management-app/README.md) — restaurant order management application
+- 💰 [Dassfund](src/projects/dassfund/README.md) — financial investment service
+- 📊 [Dassfund ERP](src/projects/dassfund-erp/README.md) — management system for the Dassfund project
+- 🪙 [Nuwa Coin](src/projects/nuwa-coin/README.md) — website for digital currency introduction
+- 📈 [Offense Coin](src/projects/offense-coin/README.md) — financial investment service application
+
+**Self-Employed / Freelance** (2021)
+
+- 🧠 [dLabel](src/projects/dlabel/README.md) — AI-based annotation web application
+
+**Danak Corporation** (2018 – 2021)
+
+- 🏛️ [Arak Provincial Government Portal](src/projects/arak-provincial-government-portal/README.md) — portal website for Arak Provincial Government
+- 🛡️ [Asan Service](src/projects/asan-service/README.md) — guarantee service web app and blog website
+- 🌐 [Oris Oxin](src/projects/oris-oxin/README.md) — business website
+- 📹 [Arak Provincial Government VCM](src/projects/arak-provincial-government-vcm/README.md) — intra-organizational web app for managing online video conferences
+- 📱 [Asan Service Mobile App v1](src/projects/asan-service-mobile-app-v1/README.md) — native mobile application for the Asan Service project
+- 🍴 [Barg Restaurant](src/projects/barg-restaurant/README.md) — catalog website with reservation system and reservation mobile app
+- 🏢 [Danak Corporation](src/projects/danak-corporation-website/README.md) — business website
+- 🗂️ [Doshell Co](src/projects/doshell-co/README.md) — catalog website with animations
+- 🛍️ [Persia Art](src/projects/persia-art/README.md) — multilingual e-commerce website
+- 🚂 [Arak Rail](src/projects/arak-rail/README.md) — business website with a grating weight calculation module
+- 🛍️ [Hima](src/projects/hima/README.md) — multilingual e-commerce website
+- 💼 [Mod Star](src/projects/mod-star/README.md) — e-commerce website and accounting web application
+- 🎨 [Negareh Agency](src/projects/negareh-agency/README.md) — catalog website
+- 📄 [MSA Landing Page](src/projects/msa-landing-page/README.md) — landing page for MSA company
+- 🏗️ [Tabesh Aluminum](src/projects/tabesh-aluminum/README.md) — business website (Vue.js SSG integrated with Laravel)
+- 🗂️ [VCV](src/projects/vcv/README.md) — catalog website
+- 🧾 [Dorsa Morq](src/projects/dorsa-morq/README.md) — catalog website
+- 🥩 [Rashin Protein](src/projects/rashin-protein/README.md) — catalog website
+
+**Termeh** (2017 – 2018)
+
+- 🏢 [Termeh Soft](src/projects/termeh-soft/README.md) — business website
 
 ## 🎓 Education
 

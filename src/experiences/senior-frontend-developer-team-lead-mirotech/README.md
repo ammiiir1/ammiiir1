@@ -57,7 +57,16 @@ MiroTech (formerly Tadilo). Team Lead for 5 to 6 frontend developers, responsibl
 
 ## Associated Projects
 
-- [Tadilo B2C Booking Platform](../../projects/tadilo-b2c-booking-platform/README.md) — Vue/Nuxt travel booking with Stripe and crypto payment integrations
-- [Terminal101](../../projects/terminal101/README.md) — B2B booking platform
-- [MiroPay & Dassfund ERP](../../projects/miropay-dassfund-erp/README.md) — fintech and payment systems
-- [Booking ERP & Easybestell](../../projects/booking-erp-easybestell/README.md) — enterprise booking and e-commerce platforms
+- [Booking System ERP](../../projects/booking-system-erp/README.md) — management system for booking projects (customers, staff, support team)
+- [MiroPay — Merchant Panel](../../projects/miropay-merchant-panel/README.md) — payments platform similar to PayPal, focusing on scalability and clean UI
+- [MiroPay — Staff Panel](../../projects/miropay-staff-panel/README.md) — staff dashboard for the MiroPay payments platform
+- [Pahlawan (WebView)](../../projects/pahlawan-webview/README.md) — WebView page for a native mobile game
+- [Tadilo (B2C Booking Service)](../../projects/tadilo-b2c-booking-service/README.md) — flight and hotel booking service
+- [Terminal101 (B2B Booking Service)](../../projects/terminal101-b2b-booking-service/README.md) — B2B booking service
+- [Easybestell (Admin Panel)](../../projects/easybestell-admin-panel/README.md) — manage staff, couriers, customers, and reports
+- [Easybestell (Online Ordering App for Clients)](../../projects/easybestell-online-ordering-app/README.md) — online food order application for restaurant customers
+- [Easybestell (Restaurant Management App)](../../projects/easybestell-restaurant-management-app/README.md) — restaurant order management application
+- [Dassfund](../../projects/dassfund/README.md) — financial investment service
+- [Dassfund ERP](../../projects/dassfund-erp/README.md) — management system for the Dassfund project
+- [Nuwa Coin](../../projects/nuwa-coin/README.md) — website for digital currency introduction
+- [Offense Coin](../../projects/offense-coin/README.md) — financial investment service application

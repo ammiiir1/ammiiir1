@@ -23,3 +23,7 @@
 - Element UI
 - jQuery
 - HTML
+
+## Associated Projects
+
+- [Termeh Soft](../../projects/termeh-soft/README.md) — business website

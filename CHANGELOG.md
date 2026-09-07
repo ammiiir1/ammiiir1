@@ -171,3 +171,15 @@ Verification:
 - Relative-link check across README.md and the experience record: no broken links; README Projects index still links the other 7 projects.
 
 ---
+
+## 2026-09-07 — Replace project dataset with detailed project records
+
+**docs(profile)**
+
+Deleted all 7 old project record directories and created 33 new per-project records from the user's detailed project list (user split everything explicitly; bundling exception not applied). Each record: Summary verbatim as short description + overview, period in YYYY(-MM) format, role when given, company relationship, Tech Stack from the user's Tech Stack line with canonical registry spellings (render-mode qualifiers kept as parentheticals, e.g. "Nuxt3 (SSR)"), Related Experience link. Rebuilt README project index grouped by employer (MIROTECH GROUP 13, Freelance 1, Danak 18, Termeh 1); refreshed Associated Projects in 6 experience records; removed broken lyralabs-space project links from career-break record (prose mention kept); registry additions: WebSocket, PHP (Laravel), PHP, Python, MySQL, React Native, Firebase.
+
+Period-to-experience mapping: MiroTech projects → mirotech record; dLabel (2021-05 – 2021-07) → full-stack-developer-self-employed; Danak "2020 – 2021" → CTO + Full-Stack (both); "2021"/"2020"/"2019 – 2020" → CTO or Full-Stack per overlap; "2018 – 2019" (Mod Star) → Frontend + Full-Stack; Aug–Nov 2018 (MSA, Tabesh) → Frontend + Full-Stack; Mar–Jul 2018, Feb–Apr 2018, Jan 2018 → Frontend; Termeh Soft → Termeh internship. Note: lyralabs.space and the native-mobile iOS learning project were omitted from the user's list and are gone from the repo.
+
+Validation: all README/experience/project cross-links resolve both ways, no orphans, no stale references to deleted slugs, every Tech Stack name exists in the README canonical registry, periods use YYYY(-MM).
+
+---

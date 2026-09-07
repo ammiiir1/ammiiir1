@@ -17,4 +17,4 @@ Used this time deliberately to build hands-on depth in AI-native software develo
 
 ## Associated Projects
 
-- [lyralabs.space](../../projects/lyralabs-space/README.md) — personal portfolio built spec-first with Next.js, Tailwind CSS, GSAP, and Motion
+- None on record — the lyralabs.space portfolio project has no project record in this repository.

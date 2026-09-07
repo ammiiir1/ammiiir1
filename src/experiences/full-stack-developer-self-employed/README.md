@@ -57,6 +57,10 @@ Freelance full-stack development across multiple clients, building and extending
 - Unit Testing
 - Socket.io
 
+## Associated Projects
+
+- [dLabel](../../projects/dlabel/README.md) — AI-based annotation web application (May 2021 – July 2021)
+
 ## Relevant Public Links
 
 - Portfolio: https://lyralabs.space

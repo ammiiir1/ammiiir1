@@ -21,3 +21,12 @@ Built engaging, animation-heavy web interfaces that became a portfolio showcase 
 - GreenSock Animation Platform (GSAP)
 - Front-End Development
 - Nuxt.js
+
+## Associated Projects
+
+- [Mod Star](../../projects/mod-star/README.md) — e-commerce website and accounting web application; Frontend Developer on the project, period spans the Frontend Developer role
+- [MSA Landing Page](../../projects/msa-landing-page/README.md) — landing page for MSA company
+- [Tabesh Aluminum](../../projects/tabesh-aluminum/README.md) — business website (Vue.js SSG integrated with Laravel)
+- [VCV](../../projects/vcv/README.md) — catalog website
+- [Dorsa Morq](../../projects/dorsa-morq/README.md) — catalog website
+- [Rashin Protein](../../projects/rashin-protein/README.md) — catalog website

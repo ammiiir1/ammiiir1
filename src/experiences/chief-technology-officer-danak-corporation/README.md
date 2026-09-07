@@ -23,3 +23,9 @@ Led the company's technical direction and product delivery. Managed a team of 4 
 - Nuxt.js
 - MongoDB
 - Node.js
+
+## Associated Projects
+
+- [Arak Provincial Government Portal](../../projects/arak-provincial-government-portal/README.md) — portal website for Arak Provincial Government; period spans the CTO role
+- [Asan Service](../../projects/asan-service/README.md) — guarantee service web app and blog website; period spans the CTO role
+- [Oris Oxin](../../projects/oris-oxin/README.md) — business website
