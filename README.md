@@ -130,14 +130,13 @@ Open to full-time, contract, and freelance opportunities.
 
 - Git
 
-## 🔥 What I Do
+## Engineering Profile
 
-- Build custom agentic workflows and skills around my own development process, shaped by 8+ years of hands-on engineering rather than generic tooling
-- Deliver projects spec-first, writing the full specification before implementation so architecture decisions stay deliberate instead of emerging from generated code
-- Build high-performance SSR applications with Vue/Nuxt and Next.js
-- Lead full-stack architecture for booking systems, ERPs, and payment platforms
-- Integrate payment gateways across multiple products: Stripe, crypto, and regional or bank-specific providers
-- Design testable, scalable codebases with Vitest and Playwright coverage
+My background is strongest where frontend complexity meets broader system design. I have owned production applications end to end, led frontend architecture across teams, and worked on products where the browser handled far more than presentation, including real-time booking data, payment flows, operational tooling, and domain-specific engineering calculations.
+
+Over the years, that work has ranged from building full-stack business systems independently to solving performance and SSR issues in large booking platforms, integrating web applications with existing internal software, and creating motion-heavy and real-time 3D experiences.
+
+More recently, I have incorporated agentic development into that engineering process. I build my own workflows and work spec-first, using coding agents for implementation and review while keeping architecture, technical direction, and final decisions under my control.
 
 ## 💼 Experience
 
