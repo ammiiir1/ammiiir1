@@ -234,3 +234,18 @@ Removed the GitHub Stats section from README.md (both github-readme-stats widget
 Replaced the "🔥 What I Do" bullet list in README.md with a new "Engineering Profile" section containing the user-provided three-paragraph narrative. No other changes.
 
 ---
+
+## 2026-09-07 — Compact two-tier Tech Stack presentation
+
+**docs(profile)**
+
+Replaced README's ~100-line Tech Stack section (icon rows + 10 bullet groups) with a 22-line two-tier layout:
+
+- Tier 1 "Primary Stack": one row of shields.io badges (icon+label in one badge) for Vue.js, Nuxt.js, React.js, Next.js, Node.js, TypeScript, MongoDB, GSAP. Chose badges over skillicons icon rows because they combine icon and label in one element and render consistently on GitHub desktop and mobile; GSAP chosen over Three.js for the visual-specialization slot.
+- Tier 2 "Complete Technical Skills": a compact | Area | Technologies | Markdown table with 10 rows using "·" separators.
+
+All ~63 canonical skill names (verified across 72 canonical name strings) remain present exactly once — nothing removed, renamed, or added. The skillicons icon rows (which also covered css/sass/vite/webpack/vscode/github icons without text entries) were dropped as presentation-only; no new canonical skills were introduced for them. Section heading "## 🛠️ Tech Stack" kept.
+
+Verification: grep-count check of every canonical name (0 missing); shields.io badge URLs return HTTP 200; section length reduced 100 → 22 lines; no skillicons references remain.
+
+---

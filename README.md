@@ -22,113 +22,24 @@ Open to full-time, contract, and freelance opportunities.
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,ts,js,html,css,sass,tailwind,bootstrap" /></p>
+**Primary Stack**
 
-- React.js
-- Vue.js
-- Next.js
-- Nuxt.js
-- Nuxt3
-- Vue3
-- TypeScript
-- JavaScript
-- HTML
-- SCSS
-- Tailwind CSS
-- Bootstrap
-- jQuery
-- Element UI
-- SPA
-- SSG
-- CSR
-- SSR
-- PWA
-- I18n
+[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](#) [![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)](#) [![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-472A6A?logo=mongodb&logoColor=white)](#) [![GSAP](https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=white)](#)
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" /></p>
+**Complete Technical Skills**
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose.js
-- REST APIs
-- GraphQL
-- Socket.io
-- WebSocket
-- PHP (Laravel)
-- PHP
-- Python
-- MySQL
-- Web Scraping
-- XAMPP
-
-**State Management**
-
-- React Context
-- Zustand
-- ReduxTK
-- Redux
-- Vuex
-- Pinia
-
-**Testing**
-
-- Playwright
-- Jest
-- React Testing Library
-- Vitest
-- End-to-end Testing
-- Unit Testing
-
-**Motion & 3D**
-
-- GreenSock Animation Platform (GSAP)
-- Three.js
-
-**Mobile & Desktop**
-
-- Capacitor
-- React Native
-- Swift (Programming Language)
-- SwiftUI
-
-**Data & Content Services**
-
-- Firebase
-
-**AI & Agentic Development**
-
-- Agentic AI Development
-- Agentic Workflows
-
-**Architecture & Practices**
-
-- Front-End Development
-- Back-End Development
-- Full-Stack Development
-- Continuous Integration and Continuous Delivery (CI/CD)
-- Continuous Integration (CI)
-- Continuous Delivery (CD)
-
-**IT & Infrastructure**
-
-- Technical Support
-- Computer Networking
-- Software Troubleshooting
-- Windows
-- Linux
-- macOS
-- Computer Hardware
-- Network Switches
-- Computer Repair
-- Computer Hardware Troubleshooting
-
-**Tools & Workflow**
-<p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode" /></p>
-
-- Git
+| Area | Technologies |
+|---|---|
+| Frontend | React.js · Vue.js · Next.js · Nuxt.js · Nuxt3 · Vue3 · TypeScript · JavaScript · HTML · SCSS · Tailwind CSS · Bootstrap · jQuery · Element UI · SPA · SSG · CSR · SSR · PWA · I18n |
+| Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · PHP (Laravel) · PHP · Web Scraping |
+| Data | MongoDB · Mongoose.js · Firebase · MySQL · Python · XAMPP |
+| State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
+| Motion & 3D | GreenSock Animation Platform (GSAP) · Three.js |
+| Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
+| Mobile & Desktop | Capacitor · React Native · Swift (Programming Language) · SwiftUI |
+| AI & Agentic Development | Agentic AI Development · Agentic Workflows |
+| Development Workflow | Front-End Development · Back-End Development · Full-Stack Development · Continuous Integration and Continuous Delivery (CI/CD) · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
+| IT & Infrastructure | Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting |
 
 ## Engineering Profile
 
