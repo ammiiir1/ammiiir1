@@ -226,3 +226,11 @@ Verification: link-resolution check across all 15 touched records (18 relative l
 Removed the GitHub Stats section from README.md (both github-readme-stats widget images and the section heading). No other changes.
 
 ---
+
+## 2026-09-07 — Replace What I Do with Engineering Profile
+
+**docs(profile)**
+
+Replaced the "🔥 What I Do" bullet list in README.md with a new "Engineering Profile" section containing the user-provided three-paragraph narrative. No other changes.
+
+---
