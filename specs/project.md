@@ -43,6 +43,8 @@ Use this template as the skeleton for every new project record. Required fields 
 
 - <Technology>
 
+<!-- Skill naming: canonical names only — see "Skill naming" note below. -->
+
 ## Public URL
 
 - <URL>
@@ -80,11 +82,19 @@ Use this template as the skeleton for every new project record. Required fields 
 | **Responsibilities & Contributions** | Bullet list of what the person did on this project. |
 | **Notable Implementation Details** | Bullet list of architecture, integrations, or technical decisions worth recording. |
 | **Achievements & Outcomes** | Bullet list of results. Omit entirely if none are known. |
-| **Tech Stack** | Bullet list of technologies actually used. |
+| **Tech Stack** | Bullet list of technologies actually used. Use **canonical names** from the root README Skills / Tech Stack registry — see the skill naming note below. |
 | **Public URL** | Public, live URL only. Omit if none exists. |
 | **Repository URL** | Only if the repository is public. Never link private repositories. |
 | **Screenshots & Media** | See "Asset placement" below. Omit entirely if no assets exist. |
 | **Related Experience** | See "Referencing experiences" below. |
+
+## Skill naming (Tech Stack section)
+
+> **Before adding or changing any skill in this record, verify its canonical name in the root README Skills / Tech Stack registry. If the skill is new, register it there first, then reuse the exact same name here.**
+
+- Canonical names only — no locally invented aliases, no alternate spellings.
+- Registry-first handling for new skills (see the canonical skill registry rules in [`career-profile.md`](./career-profile.md)).
+- Consistent casing and punctuation with the registry entry.
 
 ## Asset placement & relative linking
 
@@ -115,4 +125,5 @@ The project record owns the **project perspective** (what the project is and how
 - One project per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions. **Exception:** a record may bundle closely related projects when they were introduced as a single line of work in the source and splitting them would require inventing facts — see the bundling exception in [`career-profile.md`](./career-profile.md). Bundled records use a hyphen-joined slug of the member projects and keep each member's facts internally separated.
 - Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`career-profile.md`](./career-profile.md)).
 - All content is public by definition; never add non-public information. Public URL and Repository URL sections carry public links only.
+- Tech Stack uses canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`career-profile.md`](./career-profile.md)).
 - Adding, renaming, or removing a project record requires updating the root README project index in the same change.

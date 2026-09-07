@@ -35,6 +35,8 @@ Use this template as the skeleton for every new experience record. Required fiel
 
 - <Technology>
 
+<!-- Skill naming: canonical names only — see "Canonical skill registry" note below. -->
+
 ## Associated Projects
 
 - [<Project Name>](../../projects/<project-slug>/README.md) — <one-line summary>
@@ -64,13 +66,21 @@ Use this template as the skeleton for every new experience record. Required fiel
 | **Overview** | 1–3 sentences directly under the heading. Scope and context only — no duplicated detail from later sections. |
 | **Responsibilities** | Bullet list. What the person was responsible for, as known. |
 | **Achievements & Highlights** | Bullet list. Concrete outcomes and notable work, as known. Omit entirely if none are known. |
-| **Technologies** | Bullet list of technologies actually used in this role. |
+| **Technologies** | Bullet list of technologies actually used in this role. Use **canonical names** from the root README Skills / Tech Stack registry — see the skill naming note below. |
 | **Associated Projects** | See "Referencing projects" below. |
 | **Relevant Public Links** | Public URLs only (see public-data rules in [`career-profile.md`](./career-profile.md)). Never link private or confidential material. |
 
 ### Career breaks
 
 Career breaks and deliberate upskilling periods are experiences too. Use a heading like `# Career Break / Professional Development`, with no `@ <Organization>` part, and the same optional sections as any other record.
+
+### Skill naming (Technologies section)
+
+> **Before adding or changing any skill in this record, verify its canonical name in the root README Skills / Tech Stack registry. If the skill is new, register it there first, then reuse the exact same name here.**
+
+- Canonical names only — no locally invented aliases, no alternate spellings.
+- Registry-first handling for new skills (see the canonical skill registry rules in [`career-profile.md`](./career-profile.md)).
+- Consistent casing and punctuation with the registry entry.
 
 ## Referencing projects
 
@@ -93,4 +103,5 @@ The experience record owns the **role perspective** (what the person did in this
 - One experience per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions.
 - Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`career-profile.md`](./career-profile.md)).
 - All content is public by definition; never add non-public information.
+- Technologies use canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`career-profile.md`](./career-profile.md)).
 - Adding, renaming, or removing an experience record requires updating the root README experience index in the same change.

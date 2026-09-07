@@ -57,3 +57,18 @@ Auditor findings applied to specs/ only (no src/ or README.md changes):
 Verification: all spec-to-spec markdown links resolve; flagged links are pre-existing inline code examples. Out of scope (coder): Native Mobile casing, terminal101 redundancy in src/.
 
 ---
+
+## 2026-09-07 — Canonical skill registry rule
+
+**docs(specs)**
+
+Introduced the canonical skill registry rule across the specs so skill/technology names never drift in spelling across the repository (e.g. "Next.js" vs "NextJS" vs "next.js").
+
+- specs/career-profile.md: new "Canonical skill registry" section — root README Skills / Tech Stack is the single canonical registry; exact-name rule everywhere; no second machine-readable skill database; repetition over IDs/pointers; mandatory registry-first workflow for new skills; renaming and removal rules; category guidance; vocabulary flow. Added a consistency expectation covering skill-name consistency.
+- specs/experience.md: canonical-name requirement on the Technologies section, a "Skill naming" note near the template, and a rules-recap line.
+- specs/project.md: same treatment for the Tech Stack section.
+- specs/README.md: governance table and rules-vs-data note now mention the canonical skill registry so the invariant is discoverable.
+
+Verification: relative links in edited spec files resolve to existing files; `git status` shows only the four spec files modified; data files (README.md, src/**) untouched.
+
+---

@@ -80,6 +80,50 @@ Rules for bundled records:
 - Derived outputs **must not silently overwrite canonical facts**. When a derived output and a canonical record disagree, the canonical record wins — fix the derived output, never the other way around.
 - Derived outputs are not stored as canonical sources in this repository. If they are committed at all, they must be clearly marked as generated/derived and must never be treated as authoritative.
 
+## Canonical skill registry
+
+The root README's **Skills / Tech Stack** section is **THE canonical registry** of skills and technologies used anywhere in this repository. This is a repository-wide invariant, not a template recommendation.
+
+- Every skill/technology referenced anywhere — root README, `src/experiences/**`, `src/projects/**`, and any future career records — must use the **exact canonical name** defined there: same casing and punctuation (e.g. one spelling of a framework, not several: `Next.js` vs `NextJS` vs `Next JS` vs `next.js`).
+- **No second skill database.** No JSON/YAML registry, no machine-readable skill file. Markdown-first, human-readable.
+- **Repetition is fine.** Records may list skill names in readable Markdown lists. The registry enforces *terminology consistency*, not database normalization. Never replace readable lists with IDs, pointers, variables, generated syntax, or excessive hyperlinks.
+
+### Registry-first workflow (mandatory for new skills)
+
+When a record would introduce a skill not already in the registry:
+
+1. Check the root README Skills / Tech Stack section first.
+2. Confirm an equivalent technology isn't already registered under another canonical name.
+3. If genuinely new, add it to the appropriate category in the root README **FIRST**.
+4. Then use that exact canonical name in the record.
+5. Use the same spelling everywhere else.
+
+**A skill must never first appear only inside an experience or project record.**
+
+Flow: `New skill → check canonical registry → exists? yes → reuse exact name | no → add to root README Skills → reuse exact name in project/experience`
+
+### Renaming a skill
+
+1. Update the canonical name in the root README.
+2. Update every reference across `src/experiences/**` and `src/projects/**`.
+3. Verify the old spelling no longer remains where it refers to the same technology — do not leave aliases behind unintentionally.
+
+### Removing a skill
+
+- Do **not** remove a skill from the registry while project/experience records still legitimately reference it.
+- If a skill is no longer desirable in the public high-level Skills presentation but is still historically relevant, preserve the canonical terminology in the career records rather than creating inconsistent historical references.
+- The Skills section MAY distinguish primary/current skills from additional/historical technologies without breaking canonical naming.
+
+### Categories
+
+Skills may be grouped into human-readable categories (e.g. Frontend, Backend, Data/APIs, State Management, Styling/UI, Motion/3D, Testing, DevOps/Tooling, AI/Agentic Development, Other). These exact categories are not forced — the existing README's structure wins. The requirement is canonical naming, not a categorization system.
+
+### Vocabulary flow
+
+`root README Skills → canonical vocabulary → Experiences + Projects + future records`
+
+The registry owns the naming; individual records only reference/reuse it.
+
 ## Duplication rules
 
 - Full descriptions of an experience or project exist **only** in their record.
@@ -140,4 +184,5 @@ At all times:
 - every project record is linked from the root README's project index, and vice versa;
 - cross-references between experiences and projects resolve to real records;
 - dates in a summary never contradict the dates in the canonical record;
-- roles, titles, and project names are spelled consistently across root README, experience records, and project records.
+- roles, titles, and project names are spelled consistently across root README, experience records, and project records;
+- skill and technology names use the exact canonical name from the root README Skills / Tech Stack registry (see "Canonical skill registry" above).
