@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 I'm Amir</h1>
-<h3 align="center">Senior Full-Stack Engineer | 8+ Years | AI-Assisted & Agentic Development | React/Next · Vue/Nuxt · Node.js</h3>
+<h1 align="center">Senior Full-Stack Engineer | 8+ Years | AI-Assisted & Agentic Development | React/Next · Vue/Nuxt · Node.js</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ammiiir1&label=Profile%20views&color=0e75b6&style=flat" />
