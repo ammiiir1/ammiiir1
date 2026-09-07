@@ -218,3 +218,11 @@ Left unchanged: miropay-staff-panel — its Overview already carries full leader
 Verification: link-resolution check across all 15 touched records (18 relative links, all OK); git diff review (15 files, 1-line Overview change each).
 
 ---
+
+## 2026-09-07 — Remove GitHub Stats section
+
+**docs(profile)**
+
+Removed the GitHub Stats section from README.md (both github-readme-stats widget images and the section heading). No other changes.
+
+---
