@@ -223,15 +223,6 @@ Open to full-time, contract, and freelance opportunities.
 - Component-driven architecture
 - Clean, scalable project structure
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ammiiir1&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammiiir1&layout=compact&theme=tokyonight" />
-</p>
-
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/ammiiir1
