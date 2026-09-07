@@ -132,3 +132,11 @@ Verification: link check across edited specs — all real links resolve (only te
 Committed as docs(specs): no code or career-data files touched.
 
 ---
+
+## 2026-09-07 — Expand career-break record and reorder README sections
+
+**docs(profile)**
+
+Expanded the career-break record with user-provided copy (title "Career break", employment type Career break, Bucharest location, Dec 2025 – Feb 2026, new summary, bullets mapped to Responsibilities/Achievements, added lyralabs.space associated-project link). Reordered root README sections to About Me → Tech Stack → What I Do → Experience → Projects → Education (remainder unchanged). Experience index already sorted most-recent-first — verified, no changes needed. Languages section is absent in README; not invented per instructions.
+
+---
