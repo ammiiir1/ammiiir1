@@ -118,6 +118,8 @@ Open to full-time, contract, and freelance opportunities.
 **Tools & Workflow**
 <p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode" /></p>
 
+- Git
+
 ## 🔥 What I Do
 
 - Build custom agentic workflows and skills around my own development process, shaped by 8+ years of hands-on engineering rather than generic tooling
@@ -132,11 +134,15 @@ Open to full-time, contract, and freelance opportunities.
 - [Senior Full-Stack Engineer (Agentic Development)](src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md) @ Self-Employed / Freelance · Bucharest, Romania (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
 - [Career Break / Professional Development](src/experiences/career-break-professional-development/README.md) (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and agentic AI engineering
 - [Senior Frontend Developer & Team Lead](src/experiences/senior-frontend-developer-team-lead-mirotech/README.md) @ MiroTech, formerly Tadilo (Apr 2022 – Dec 2025): led a team of 5–6 frontend developers across Tadilo, Terminal101, MiroPay, Booking ERP, Easybestell, and Dassfund
-- [Full-Stack Developer](src/experiences/full-stack-developer-self-employed/README.md) @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
+- [Full-Stack Developer](src/experiences/full-stack-developer-self-employed/README.md) @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js, including Asan Service
 - [Chief Technology Officer](src/experiences/chief-technology-officer-danak-corporation/README.md) @ Danak Corporation (Jan 2020 – May 2021): owned tech stack, architecture, and database design; managed 4 developers and 2 UI designers
 - [Full-Stack Developer](src/experiences/full-stack-developer-danak-corporation/README.md) @ Danak Corporation (Oct 2018 – Jan 2020): led the PHP to Node.js migration, mentored junior developers
 - [Frontend Developer](src/experiences/frontend-developer-danak-corporation/README.md) @ Danak Corporation (Jan 2018 – Oct 2018): animation-heavy UI work with GSAP and Vue
-- [Frontend Developer Intern](src/experiences/frontend-developer-intern-termeh/README.md) @ Termeh (2017 – 2018)
+- [Frontend Developer (Internship)](src/experiences/frontend-developer-intern-termeh/README.md) @ Termeh (2017 – 2018): HTML, jQuery, and Laravel-based front-end projects
+- [Career Break / Professional Development](src/experiences/career-break-foundations-2016-2017/README.md) (2016 – 2017): foundational web development — HTML, CSS, and JavaScript under private tutoring
+- [Computer Repair Technician](src/experiences/computer-repair-technician-negaran-fard/README.md) @ Negaran Fard (Oct 2015 – Sep 2016): computer and laptop repair, hardware and software troubleshooting
+- [Computer Repair Technician](src/experiences/computer-repair-technician-pishro-computer/README.md) @ Pishro Computer (Jan 2015 – Sep 2015): hardware repairs, system troubleshooting, and technical support
+- [Computer Technician (Internship)](src/experiences/computer-technician-internship-farhikhteh-negar/README.md) @ Farhikhteh Negar (Jul 2014 – Jan 2015): hardware/software troubleshooting and network configuration
 
 ## 🧩 Projects
 

@@ -150,3 +150,11 @@ README.md: added a Languages section (English — Professional working proficien
 Validation: all 63 registry names verified present exactly once via exact-line grep; relative links resolve; no stale "Native & Mobile"/"Front-end Development" leftovers; no JSON/YAML registry.
 
 ---
+
+## 2026-09-07 — Overhaul experience records with detailed career history
+
+**docs(profile)**
+
+Rewrote all experience records with the user-supplied verbatim copy: full summaries, employment type, location, responsibilities/achievements, and complete Technologies lists. Updated 7 existing records (MiroTech, freelance self-employed, Danak CTO, Danak full-stack, Danak frontend, Termeh internship) and created 4 new ones (career-break-foundations-2016-2017, computer-repair-technician-negaran-fard, computer-repair-technician-pishro-computer, computer-technician-internship-farhikhteh-negar). Rebuilt the README Experience index most-recent-first (Feb 2026 → Jul 2014) with one-line summaries. Registry-first: added `Git` to README Tech Stack (Tools & Workflow). Kept the existing 2025-12–2026-02 career-break record untouched. Verification: all README↔record and record↔project relative links resolve; every Technologies entry matches the canonical registry (known casing variants "Front-end Development" vs "Front-End Development" retained verbatim per user instruction).
+
+---

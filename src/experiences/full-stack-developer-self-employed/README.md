@@ -1,19 +1,65 @@
 # Full-Stack Developer @ Self-Employed / Freelance
 
-Freelance full-stack development for multiple clients.
+Freelance full-stack development across multiple clients, building and extending production web applications with Vue/Nuxt, React/Next, and Node.js (Express, MongoDB).
 
 - **Employment type:** Freelance
+- **Location:** Remote
 - **Period:** 2021-05 – 2022-04
 
 ## Responsibilities
 
-- Delivered work for multiple clients across Vue/Nuxt, React/Next, and Node.js
+- Delivered frontend and backend features for various client projects, including UI development, API integration, and database work
+- Added ongoing feature work and maintenance for existing client applications, including Asan Service
+- Managed full client relationships end to end, from requirements to delivery
+
+## Achievements & Highlights
+
+- Built automated tests (Vitest, React Testing Library, Playwright, Jest) to improve reliability and reduce bugs across delivered features
 
 ## Technologies
 
-- Vue/Nuxt
-- React/Next
+- Vue.js
+- Continuous Integration (CI)
+- Mongoose.js
+- CSR
+- Three.js
+- Playwright
+- Vuex
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Bootstrap
+- Next.js
+- End-to-end Testing
+- GreenSock Animation Platform (GSAP)
+- Full-Stack Development
+- Front-end Development
+- JavaScript
+- Vitest
+- PWA
+- Continuous Delivery (CD)
+- Redux
+- Capacitor
+- Element UI
+- SSG
+- SPA
+- Back-End Development
+- Express.js
+- Git
+- Web Scraping
+- React.js
+- SSR
+- Jest
+- Nuxt.js
+- HTML
+- MongoDB
+- REST APIs
+- SCSS
 - Node.js
+- Unit Testing
+- Socket.io
+
+## Associated Projects
+
+- [Asan Service & Arak Provincial Government Portal](../../projects/asan-service-arak-provincial-government-portal/README.md) — public sector digital services
 
 ## Relevant Public Links
 
