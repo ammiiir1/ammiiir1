@@ -11,13 +11,15 @@
 
 8+ years building and shipping production web applications across the full stack: Vue/Nuxt, React/Next.js, and Node.js.
 
-I started coding long before AI tooling became part of the workflow, which gave me a strong foundation in understanding systems rather than just generating code. Today I build and use my own agentic workflows and skills around how I actually work, using AI to move faster while keeping engineering quality, architecture, and technical decisions firmly in my hands.
+I started coding long before AI tooling became part of the workflow, which gave me a strong foundation in understanding systems rather than just generating code. Today, I build and use my own agentic workflows and skills around how I actually work, using AI to move faster while keeping engineering quality, architecture, and technical decisions firmly in my hands.
 
 Strong focus on SSR, performance optimization, and animation-heavy interfaces with GSAP and Motion.
 
 Led frontend and full-stack teams, including a CTO role. Shipped products end to end, from booking and ERP platforms to payment integrations with Stripe, crypto, and a wide range of regional and bank-specific gateways.
 
-Based in Bucharest 🇷🇴 with a valid work permit and no sponsorship required. Open to full-time, contract, and freelance opportunities.
+Based in Bucharest 🇷🇴 with a valid work permit and no sponsorship required.
+
+Open to full-time, contract, and freelance opportunities.
 
 ## 🛠️ Tech Stack
 
