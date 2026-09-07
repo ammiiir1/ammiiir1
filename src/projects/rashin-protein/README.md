@@ -8,7 +8,7 @@ Catalog website.
 
 ## Overview
 
-Catalog website.
+Catalog website for Rashin Protein, delivered as client work at Danak Corporation. Built as a Vue.js (SPA) frontend.
 
 ## Tech Stack
 

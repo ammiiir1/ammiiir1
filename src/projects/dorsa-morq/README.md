@@ -8,7 +8,7 @@ Catalog website.
 
 ## Overview
 
-Catalog website.
+Catalog website for Dorsa Morq, delivered as client work at Danak Corporation. Worked on the existing PHP-based site, applying modifications and JavaScript features.
 
 ## Tech Stack
 

@@ -199,3 +199,22 @@ User-edited README.md committed as-is: merged the greeting line into a single ce
 Enriched 13 existing project records and created 2 new ones with user-sanctioned facts: ownership/engineering stories (Tadilo near-total frontend ownership + real-time incremental WebSocket search + chunked rendering + SSR Docker fix; Terminal101 B2B framing; MiroPay panels leadership framing, removed "similar to PayPal"; Booking ERP leadership framing; dLabel Project Manager redesign; Asan Service solo full-stack + internal-system integration; Easybestell ecosystem + Electron printing-bridge contribution; Arak Rail engineering calculator with structural validation; Tabesh/Persia Art/Doshell/Barg UI-and-motion emphasis). Created lyralabs-space (Three.js splash, GSAP, Agentic Workflows) and native-ios-qr-code-generator (Swift, SwiftUI — registry-first). Added SwiftUI to README Mobile & Desktop registry; added Personal project-index group; updated MiroPay/Doshell/Arak Rail one-liners. Restored Associated Projects links in career-break and freelance-agentic records. Link check: all relative links resolve, no stale references.
 
 ---
+
+## 2026-09-07 — Light overview cleanup for remaining project records
+
+**docs(profile)**
+
+Each of the 15 remaining un-enriched project records had an Overview that was a verbatim repetition of the one-liner under the heading. Rewrote each Overview minimally using only facts already canonical in the record (relationship/employer, role, tech stack) — no invented impact, features, or ownership:
+
+- arak-provincial-government-portal, arak-provincial-government-vcm, danak-corporation-website: added Danak client-work context + stack summary (Nuxt SSR/SPA + Express/MongoDB/REST)
+- asan-service-mobile-app-v1: Danak client-work context + React Native/Redux summary
+- negareh-agency, msa-landing-page, vcv, rashin-protein: Danak client-work context + Vue (SSG/SPA) summary
+- dorsa-morq: Danak client-work context + PHP-site modifications/JS-features framing (from role)
+- termeh-soft: Termeh internship context + PHP (Laravel)
+- nuwa-coin, offense-coin, dassfund, dassfund-erp, pahlawan-webview: MIROTECH GROUP context + stack/relationship summary
+
+Left unchanged: miropay-staff-panel — its Overview already carries full leadership framing, no verbatim repetition. All metadata, tech stacks, links, and periods preserved; no new skills; all relative links verified resolving.
+
+Verification: link-resolution check across all 15 touched records (18 relative links, all OK); git diff review (15 files, 1-line Overview change each).
+
+---

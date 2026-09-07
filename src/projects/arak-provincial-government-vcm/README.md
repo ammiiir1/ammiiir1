@@ -8,7 +8,7 @@ Intra-organizational web app for managing online video conferences.
 
 ## Overview
 
-Intra-organizational web app for managing online video conferences.
+Intra-organizational web app for managing online video conferences, delivered as client work at Danak Corporation. Built as a Nuxt.js (SPA) frontend over an Express.js/MongoDB backend exposed via REST APIs.
 
 ## Tech Stack
 

@@ -8,7 +8,7 @@ Portal website for Arak Provincial Government.
 
 ## Overview
 
-Portal website for Arak Provincial Government.
+Portal website for Arak Provincial Government, delivered as client work at Danak Corporation. Built end-to-end with a Nuxt.js (SSR) frontend and an Express.js/MongoDB backend exposed over REST APIs.
 
 ## Tech Stack
 

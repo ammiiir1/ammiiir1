@@ -8,7 +8,7 @@ Catalog website.
 
 ## Overview
 
-Catalog website.
+Catalog website for Negareh Agency, delivered as client work at Danak Corporation. Built as a statically generated Vue.js (SSG) frontend.
 
 ## Tech Stack
 

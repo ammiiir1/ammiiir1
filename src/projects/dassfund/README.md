@@ -7,7 +7,7 @@ Financial investment service.
 
 ## Overview
 
-Financial investment service.
+Financial investment service built at MIROTECH GROUP. Developed as a client-side rendered Next.js application, using React Context for state and REST APIs for data.
 
 ## Tech Stack
 

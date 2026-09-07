@@ -7,7 +7,7 @@ Management system for the Dassfund project (manage users, staff, business strate
 
 ## Overview
 
-Management system for the Dassfund project (manage users, staff, business strategies and more).
+Management system for the Dassfund project, covering users, staff, business strategies and more. Built at MIROTECH GROUP as a client-side rendered Next.js application, using React Context for state and REST APIs for data.
 
 ## Tech Stack
 

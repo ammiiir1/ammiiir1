@@ -8,7 +8,7 @@ Business website.
 
 ## Overview
 
-Business website.
+Business website for Termeh, built during a frontend internship there. Developed on a PHP (Laravel) codebase.
 
 ## Tech Stack
 

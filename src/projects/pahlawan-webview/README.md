@@ -7,7 +7,7 @@ WebView page for native mobile game.
 
 ## Overview
 
-WebView page for native mobile game.
+WebView page embedded in a native mobile game, built at MIROTECH GROUP. Implemented with React and TypeScript, communicating with backend services over REST APIs.
 
 ## Tech Stack
 

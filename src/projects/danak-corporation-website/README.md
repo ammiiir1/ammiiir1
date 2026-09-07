@@ -8,7 +8,7 @@ Business website.
 
 ## Overview
 
-Business website.
+Business website for Danak Corporation. Built as a Nuxt.js (SSR) application with an Express.js/MongoDB backend exposed over REST APIs.
 
 ## Tech Stack
 

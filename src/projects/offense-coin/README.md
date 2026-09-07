@@ -7,7 +7,7 @@ Financial investment service application.
 
 ## Overview
 
-Financial investment service application.
+Financial investment service application built at MIROTECH GROUP. Developed as a Next.js progressive web app consuming REST APIs, styled with Tailwind CSS.
 
 ## Tech Stack
 

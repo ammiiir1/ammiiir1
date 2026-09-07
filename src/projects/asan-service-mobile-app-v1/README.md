@@ -8,7 +8,7 @@ Native mobile application for the Asan Service project.
 
 ## Overview
 
-Native mobile application for the Asan Service project.
+Native mobile application for the Asan Service project, delivered as client work at Danak Corporation. Built with React Native, using Redux for state management and consuming the project's REST APIs.
 
 ## Tech Stack
 

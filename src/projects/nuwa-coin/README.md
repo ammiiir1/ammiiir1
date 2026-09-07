@@ -7,7 +7,7 @@ Website for digital currency introduction.
 
 ## Overview
 
-Website for digital currency introduction.
+Website introducing the Nuwa digital currency, built at MIROTECH GROUP. Implemented with Next.js and Tailwind CSS.
 
 ## Tech Stack
 

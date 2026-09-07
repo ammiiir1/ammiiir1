@@ -8,7 +8,7 @@ Landing page for MSA company.
 
 ## Overview
 
-Landing page for MSA company.
+Landing page for MSA company, delivered as client work at Danak Corporation. Built as a Vue.js (SPA) frontend.
 
 ## Tech Stack
 
