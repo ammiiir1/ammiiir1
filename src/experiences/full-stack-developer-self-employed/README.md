@@ -57,10 +57,6 @@ Freelance full-stack development across multiple clients, building and extending
 - Unit Testing
 - Socket.io
 
-## Associated Projects
-
-- [Asan Service & Arak Provincial Government Portal](../../projects/asan-service-arak-provincial-government-portal/README.md) — public sector digital services
-
 ## Relevant Public Links
 
 - Portfolio: https://lyralabs.space

@@ -151,7 +151,7 @@ Open to full-time, contract, and freelance opportunities.
 - 💸 [MiroPay & Dassfund ERP](src/projects/miropay-dassfund-erp/README.md) — fintech and payment systems
 - 🏢 [Booking ERP & Easybestell](src/projects/booking-erp-easybestell/README.md) — enterprise booking and e-commerce platforms
 - 🧠 [dLabel](src/projects/dlabel/README.md) — AI data annotation platform, frame management and annotation tooling
-- 🏛️ [Asan Service & Arak Provincial Government Portal](src/projects/asan-service-arak-provincial-government-portal/README.md) — public sector digital services
+
 - 🌐 [lyralabs.space](src/projects/lyralabs-space/README.md) — personal portfolio rebuilt from the ground up with Next.js, Tailwind, GSAP, and Motion, including a cinematic 3D loading sequence
 - 📱 [Native mobile](src/projects/native-mobile-ios/README.md) — currently extending into iOS development with Swift
 

@@ -158,3 +158,16 @@ Validation: all 63 registry names verified present exactly once via exact-line g
 Rewrote all experience records with the user-supplied verbatim copy: full summaries, employment type, location, responsibilities/achievements, and complete Technologies lists. Updated 7 existing records (MiroTech, freelance self-employed, Danak CTO, Danak full-stack, Danak frontend, Termeh internship) and created 4 new ones (career-break-foundations-2016-2017, computer-repair-technician-negaran-fard, computer-repair-technician-pishro-computer, computer-technician-internship-farhikhteh-negar). Rebuilt the README Experience index most-recent-first (Feb 2026 → Jul 2014) with one-line summaries. Registry-first: added `Git` to README Tech Stack (Tools & Workflow). Kept the existing 2025-12–2026-02 career-break record untouched. Verification: all README↔record and record↔project relative links resolve; every Technologies entry matches the canonical registry (known casing variants "Front-end Development" vs "Front-End Development" retained verbatim per user instruction).
 
 ---
+
+## 2026-09-07 — Remove incorrect Asan Service project record
+
+**docs(profile)**
+
+Deleted src/projects/asan-service-arak-provincial-government-portal/ (user stated the project is incorrect; corrected project list to follow). Removed the 🏛️ entry from the README Projects index and the broken Associated Projects link (and now-empty section) in src/experiences/full-stack-developer-self-employed/README.md. The verbatim experience bullet mentioning Asan Service is retained.
+
+Verification:
+- `grep -rin "asan-service"` (excluding .git, node_modules, .opencode): zero remaining references outside CHANGELOG.md history entries.
+- Remaining "asan" text is the user's verbatim experience bullet only; no links to the deleted project remain.
+- Relative-link check across README.md and the experience record: no broken links; README Projects index still links the other 7 projects.
+
+---
