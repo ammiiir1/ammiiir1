@@ -1,6 +1,6 @@
 # Asan Service
 
-Guarantee service web app and blog website.
+Warranty and guarantee service web application with a blog website, built solo across the full stack.
 
 - **Role:** Full-Stack Developer
 - **Period:** 2020 – 2021
@@ -8,7 +8,21 @@ Guarantee service web app and blog website.
 
 ## Overview
 
-Guarantee service web app and blog website.
+Asan Service is a warranty-request system built around an existing internal inventory and warranty-management application that the company exposed via a web service. My application retrieved available parts from that web service, stored warranty-request forms in its own database, and also posted warranty requests to the internal system, storing the external reference returned by the web service locally so records stayed linked across both systems.
+
+I worked independently across the frontend and backend: database schema design, backend API routes and business logic, the frontend UI, registration and login, and printable invoices.
+
+## Responsibilities & Contributions
+
+- Designed the database schema and implemented backend API routes and business logic
+- Built the frontend UI, including registration/login and printable invoices
+- Integrated with the company's existing internal inventory/warranty web service to retrieve available parts
+- Posted warranty requests to the internal system in addition to storing them locally
+- Stored the internal system's returned reference locally so records stayed linked across both systems
+
+## Notable Implementation Details
+
+- **Cross-system record synchronization:** every warranty request existed both in this app's own database and in the company's internal system; the app stored the internal system's reference per request, keeping the two systems' records linked.
 
 ## Tech Stack
 

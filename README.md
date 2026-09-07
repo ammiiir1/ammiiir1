@@ -92,6 +92,7 @@ Open to full-time, contract, and freelance opportunities.
 - Capacitor
 - React Native
 - Swift (Programming Language)
+- SwiftUI
 
 **Data & Content Services**
 
@@ -158,7 +159,7 @@ Open to full-time, contract, and freelance opportunities.
 **MIROTECH GROUP** (2022 – 2025)
 
 - 🧭 [Booking System ERP](src/projects/booking-system-erp/README.md) — management system for booking projects (customers, staff, support team)
-- 💳 [MiroPay — Merchant Panel](src/projects/miropay-merchant-panel/README.md) — payments platform similar to PayPal, focusing on scalability and clean UI
+- 💳 [MiroPay — Merchant Panel](src/projects/miropay-merchant-panel/README.md) — merchant dashboard for the MiroPay payments platform
 - 🧑‍💼 [MiroPay — Staff Panel](src/projects/miropay-staff-panel/README.md) — staff dashboard for the MiroPay payments platform
 - 🎮 [Pahlawan (WebView)](src/projects/pahlawan-webview/README.md) — WebView page for a native mobile game
 - ✈️ [Tadilo (B2C Booking Service)](src/projects/tadilo-b2c-booking-service/README.md) — flight and hotel booking service
@@ -175,6 +176,11 @@ Open to full-time, contract, and freelance opportunities.
 
 - 🧠 [dLabel](src/projects/dlabel/README.md) — AI-based annotation web application
 
+**Personal**
+
+- 🚀 [LyraLabs Space](src/projects/lyralabs-space/README.md) — personal portfolio with a cinematic Three.js splash experience
+- 📱 [Native iOS QR Code Generator](src/projects/native-ios-qr-code-generator/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
+
 **Danak Corporation** (2018 – 2021)
 
 - 🏛️ [Arak Provincial Government Portal](src/projects/arak-provincial-government-portal/README.md) — portal website for Arak Provincial Government
@@ -184,9 +190,9 @@ Open to full-time, contract, and freelance opportunities.
 - 📱 [Asan Service Mobile App v1](src/projects/asan-service-mobile-app-v1/README.md) — native mobile application for the Asan Service project
 - 🍴 [Barg Restaurant](src/projects/barg-restaurant/README.md) — catalog website with reservation system and reservation mobile app
 - 🏢 [Danak Corporation](src/projects/danak-corporation-website/README.md) — business website
-- 🗂️ [Doshell Co](src/projects/doshell-co/README.md) — catalog website with animations
+- 🗂️ [Doshell Co](src/projects/doshell-co/README.md) — visually driven catalog experience with motion-driven presentation
 - 🛍️ [Persia Art](src/projects/persia-art/README.md) — multilingual e-commerce website
-- 🚂 [Arak Rail](src/projects/arak-rail/README.md) — business website with a grating weight calculation module
+- 🚂 [Arak Rail](src/projects/arak-rail/README.md) — industrial steel-grating website with a custom backend engineering calculator
 - 🛍️ [Hima](src/projects/hima/README.md) — multilingual e-commerce website
 - 💼 [Mod Star](src/projects/mod-star/README.md) — e-commerce website and accounting web application
 - 🎨 [Negareh Agency](src/projects/negareh-agency/README.md) — catalog website

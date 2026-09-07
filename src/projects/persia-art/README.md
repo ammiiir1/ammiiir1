@@ -1,6 +1,6 @@
 # Persia Art
 
-Multilingual e-commerce website.
+Multilingual e-commerce platform, built across the full stack with a custom, animation-driven customer-facing UI.
 
 - **Role:** Full-Stack Developer
 - **Period:** 2020 – 2020
@@ -8,7 +8,13 @@ Multilingual e-commerce website.
 
 ## Overview
 
-Multilingual e-commerce website.
+Persia Art is a multilingual e-commerce website served with SSR (Nuxt.js). I worked across the full stack: the SSR frontend and its backend integration. A significant part of the work was the customer-facing layer — custom UI, visual presentation, and animation/motion throughout the frontend — so the shop presents its products visually rather than reading as a stock storefront.
+
+## Responsibilities & Contributions
+
+- Full-stack implementation and integration of the multilingual e-commerce platform
+- SSR frontend with Nuxt.js
+- Custom customer-facing UI, visual presentation, and animation/motion throughout the frontend
 
 ## Tech Stack
 

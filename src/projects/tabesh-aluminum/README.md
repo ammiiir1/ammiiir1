@@ -1,6 +1,6 @@
 # Tabesh Aluminum
 
-Business website (Vue.js SSG integrated with Laravel).
+Business website (Vue.js SSG integrated with Laravel) with a strong emphasis on custom UI and motion.
 
 - **Role:** Frontend Developer
 - **Period:** 2018-08 – 2018-11
@@ -8,7 +8,13 @@ Business website (Vue.js SSG integrated with Laravel).
 
 ## Overview
 
-Business website (Vue.js SSG integrated with Laravel).
+A business website built as a Vue.js SSG integrated with Laravel. A significant part of my work was the custom UI implementation: visual polish, responsive frontend work, and animation, motion, and transitions throughout the interface.
+
+## Responsibilities & Contributions
+
+- Custom UI implementation with a focus on visual polish and responsive behavior
+- Animation, motion, transitions, and interactions across the site
+- Vue.js SSG frontend integrated with Laravel
 
 ## Tech Stack
 

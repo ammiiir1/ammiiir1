@@ -58,7 +58,7 @@ MiroTech (formerly Tadilo). Team Lead for 5 to 6 frontend developers, responsibl
 ## Associated Projects
 
 - [Booking System ERP](../../projects/booking-system-erp/README.md) — management system for booking projects (customers, staff, support team)
-- [MiroPay — Merchant Panel](../../projects/miropay-merchant-panel/README.md) — payments platform similar to PayPal, focusing on scalability and clean UI
+- [MiroPay — Merchant Panel](../../projects/miropay-merchant-panel/README.md) — merchant dashboard for the MiroPay payments platform
 - [MiroPay — Staff Panel](../../projects/miropay-staff-panel/README.md) — staff dashboard for the MiroPay payments platform
 - [Pahlawan (WebView)](../../projects/pahlawan-webview/README.md) — WebView page for a native mobile game
 - [Tadilo (B2C Booking Service)](../../projects/tadilo-b2c-booking-service/README.md) — flight and hotel booking service

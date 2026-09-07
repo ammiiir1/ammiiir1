@@ -17,4 +17,4 @@ Used this time deliberately to build hands-on depth in AI-native software develo
 
 ## Associated Projects
 
-- None on record — the lyralabs.space portfolio project has no project record in this repository.
+- [LyraLabs Space](../../projects/lyralabs-space/README.md) — the portfolio built during this period has its own project record

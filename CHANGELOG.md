@@ -191,3 +191,11 @@ Validation: all README/experience/project cross-links resolve both ways, no orph
 User-edited README.md committed as-is: merged the greeting line into a single centered H1 (headline only), dropping the "Hi 👋 I'm Amir" greeting line. No other changes.
 
 ---
+
+## 2026-09-07 — Enrich project records with ownership and engineering stories
+
+**docs(profile)**
+
+Enriched 13 existing project records and created 2 new ones with user-sanctioned facts: ownership/engineering stories (Tadilo near-total frontend ownership + real-time incremental WebSocket search + chunked rendering + SSR Docker fix; Terminal101 B2B framing; MiroPay panels leadership framing, removed "similar to PayPal"; Booking ERP leadership framing; dLabel Project Manager redesign; Asan Service solo full-stack + internal-system integration; Easybestell ecosystem + Electron printing-bridge contribution; Arak Rail engineering calculator with structural validation; Tabesh/Persia Art/Doshell/Barg UI-and-motion emphasis). Created lyralabs-space (Three.js splash, GSAP, Agentic Workflows) and native-ios-qr-code-generator (Swift, SwiftUI — registry-first). Added SwiftUI to README Mobile & Desktop registry; added Personal project-index group; updated MiroPay/Doshell/Arak Rail one-liners. Restored Associated Projects links in career-break and freelance-agentic records. Link check: all relative links resolve, no stale references.
+
+---
