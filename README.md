@@ -126,13 +126,6 @@ More recently, I have incorporated agentic development into that engineering pro
 - **English** — Professional working proficiency
 - **Persian** — Native or bilingual proficiency
 
-## 🧪 Engineering Focus
-
-- Spec-driven development and custom agentic workflows
-- Unit testing (Vitest) and E2E testing (Playwright)
-- Component-driven architecture
-- Clean, scalable project structure
-
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/ammiiir1
