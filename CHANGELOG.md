@@ -19,3 +19,13 @@ Verification: all real cross-links between the four spec files resolve (checked 
 Next: `coder` restructures the repo into README.md + specs/ + src/experiences/<slug>/README.md + src/projects/<slug>/README.md per these specs.
 
 ---
+
+## 2026-09-07 — Restructure career profile into specs + src architecture
+
+**docs(profile)**
+
+Restructured the repository per specs/ into a root README (public landing page + canonical index) plus a `src/` tree: 8 experience records under `src/experiences/<slug>/README.md` (both Danak roles, both freelance periods, MiroTech lead, career break, Termeh internship) and 8 project records under `src/projects/<slug>/README.md` (Tadilo, Terminal101, MiroPay & Dassfund ERP, Booking ERP & Easybestell, dLabel, Asan Service & Arak Government Portal, lyralabs.space, native-mobile-ios). Root README keeps presentation content verbatim (header, badges, stats, contact), carries canonical profile-level facts, and links records with concise one-line summaries. Full descriptions live only in records; cross-links are two-way. Added .gitignore (.DS_Store, .opencode/). No career facts invented; sparse fields omitted per specs.
+
+Validation: script-checked all relative links resolve (README→records, records↔records), no orphan index entries, no asset references (none exist), 8/8 experiences and 8/8 projects linked both ways.
+
+---

@@ -39,29 +39,31 @@ Based in Bucharest 🇷🇴 with a valid work permit and no sponsorship required
 - Integrate payment gateways across multiple products: Stripe, crypto, and regional or bank-specific providers
 - Design testable, scalable codebases with Vitest and Playwright coverage
 
-## 🧩 Highlight Projects
+## 🧩 Projects
 
-- 💳 **Tadilo B2C Booking Platform** (MiroTech): Vue/Nuxt travel booking with Stripe and crypto payment integrations
-- 🏢 **Terminal101**: B2B booking platform
-- 💸 **MiroPay & Dassfund ERP**: fintech and payment systems
-- 🏢 **Booking ERP & Easybestell**: enterprise booking and e-commerce platforms
-- 🧠 **dLabel**: AI data annotation platform, frame management and annotation tooling
-- 🏛️ **Asan Service & Arak Provincial Government Portal**: public sector digital services
-- 🌐 **lyralabs.space**: personal portfolio rebuilt from the ground up with Next.js, Tailwind, GSAP, and Motion, including a cinematic 3D loading sequence
-- 📱 **Native mobile**: currently extending into iOS development with Swift
+- 💳 [Tadilo B2C Booking Platform](src/projects/tadilo-b2c-booking-platform/README.md) — Vue/Nuxt travel booking with Stripe and crypto payment integrations
+- 🏢 [Terminal101](src/projects/terminal101/README.md) — B2B booking platform
+- 💸 [MiroPay & Dassfund ERP](src/projects/miropay-dassfund-erp/README.md) — fintech and payment systems
+- 🏢 [Booking ERP & Easybestell](src/projects/booking-erp-easybestell/README.md) — enterprise booking and e-commerce platforms
+- 🧠 [dLabel](src/projects/dlabel/README.md) — AI data annotation platform, frame management and annotation tooling
+- 🏛️ [Asan Service & Arak Provincial Government Portal](src/projects/asan-service-arak-provincial-government-portal/README.md) — public sector digital services
+- 🌐 [lyralabs.space](src/projects/lyralabs-space/README.md) — personal portfolio rebuilt from the ground up with Next.js, Tailwind, GSAP, and Motion, including a cinematic 3D loading sequence
+- 📱 [Native mobile](src/projects/native-mobile-ios/README.md) — currently extending into iOS development with Swift
 
 ## 💼 Experience
 
-- **Senior Full-Stack Engineer (Agentic Development)** @ Self-Employed / Freelance (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
-- **Career Break / Professional Development** (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and agentic AI engineering
-- **Senior Frontend Developer & Team Lead** @ MiroTech, formerly Tadilo (Apr 2022 – Dec 2025): led a team of 5–6 frontend developers across Tadilo, Terminal101, MiroPay, Booking ERP, Easybestell, and Dassfund
-- **Full-Stack Developer** @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
-- **Chief Technology Officer** @ Danak Corporation (Jan 2020 – May 2021): owned tech stack, architecture, and database design; managed 4 developers and 2 UI designers
-- **Full-Stack Developer** @ Danak Corporation (Oct 2018 – Jan 2020): led the PHP to Node.js migration, mentored junior developers
-- **Frontend Developer** @ Danak Corporation (Jan 2018 – Oct 2018): animation-heavy UI work with GSAP and Vue.js
-- **Frontend Developer Intern** @ Termeh (2017 – 2018)
+- [Senior Full-Stack Engineer (Agentic Development)](src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md) @ Self-Employed / Freelance (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
+- [Career Break / Professional Development](src/experiences/career-break-professional-development/README.md) (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and agentic AI engineering
+- [Senior Frontend Developer & Team Lead](src/experiences/senior-frontend-developer-team-lead-mirotech/README.md) @ MiroTech, formerly Tadilo (Apr 2022 – Dec 2025): led a team of 5–6 frontend developers across Tadilo, Terminal101, MiroPay, Booking ERP, Easybestell, and Dassfund
+- [Full-Stack Developer](src/experiences/full-stack-developer-self-employed/README.md) @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
+- [Chief Technology Officer](src/experiences/chief-technology-officer-danak-corporation/README.md) @ Danak Corporation (Jan 2020 – May 2021): owned tech stack, architecture, and database design; managed 4 developers and 2 UI designers
+- [Full-Stack Developer](src/experiences/full-stack-developer-danak-corporation/README.md) @ Danak Corporation (Oct 2018 – Jan 2020): led the PHP to Node.js migration, mentored junior developers
+- [Frontend Developer](src/experiences/frontend-developer-danak-corporation/README.md) @ Danak Corporation (Jan 2018 – Oct 2018): animation-heavy UI work with GSAP and Vue.js
+- [Frontend Developer Intern](src/experiences/frontend-developer-intern-termeh/README.md) @ Termeh (2017 – 2018)
 
-**Education:** M.Sc. Computer Software Engineering & B.Sc. IT, IAU Arak
+## 🎓 Education
+
+**M.Sc. Computer Software Engineering & B.Sc. IT, IAU Arak**
 
 ## 🧪 Engineering Focus
 
