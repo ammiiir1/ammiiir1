@@ -11,8 +11,8 @@ Freelance full-stack development for multiple clients.
 
 ## Technologies
 
-- Vue / Nuxt
-- React / Next
+- Vue/Nuxt
+- React/Next
 - Node.js
 
 ## Relevant Public Links

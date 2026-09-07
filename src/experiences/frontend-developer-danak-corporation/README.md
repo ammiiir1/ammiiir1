@@ -10,5 +10,5 @@ Frontend development focused on animation-heavy UI work.
 
 ## Technologies
 
-- Vue.js
+- Vue
 - GSAP

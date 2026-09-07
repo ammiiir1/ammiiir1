@@ -60,7 +60,7 @@ Open to full-time, contract, and freelance opportunities.
 - [Full-Stack Developer](src/experiences/full-stack-developer-self-employed/README.md) @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
 - [Chief Technology Officer](src/experiences/chief-technology-officer-danak-corporation/README.md) @ Danak Corporation (Jan 2020 – May 2021): owned tech stack, architecture, and database design; managed 4 developers and 2 UI designers
 - [Full-Stack Developer](src/experiences/full-stack-developer-danak-corporation/README.md) @ Danak Corporation (Oct 2018 – Jan 2020): led the PHP to Node.js migration, mentored junior developers
-- [Frontend Developer](src/experiences/frontend-developer-danak-corporation/README.md) @ Danak Corporation (Jan 2018 – Oct 2018): animation-heavy UI work with GSAP and Vue.js
+- [Frontend Developer](src/experiences/frontend-developer-danak-corporation/README.md) @ Danak Corporation (Jan 2018 – Oct 2018): animation-heavy UI work with GSAP and Vue
 - [Frontend Developer Intern](src/experiences/frontend-developer-intern-termeh/README.md) @ Termeh (2017 – 2018)
 
 ## 🎓 Education

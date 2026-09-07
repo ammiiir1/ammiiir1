@@ -12,8 +12,8 @@ Freelance senior full-stack engineering practice built around spec-first deliver
 
 ## Technologies
 
-- Vue / Nuxt
-- React / Next
+- Vue/Nuxt
+- React/Next
 - Node.js
 - Custom agentic workflows and skills
 

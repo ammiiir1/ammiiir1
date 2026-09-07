@@ -14,7 +14,7 @@ A B2C travel booking platform built at MiroTech, covering the booking flow end t
 
 ## Tech Stack
 
-- Vue / Nuxt
+- Vue/Nuxt
 - Stripe (payments)
 - Crypto payments
 

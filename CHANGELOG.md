@@ -72,3 +72,24 @@ Introduced the canonical skill registry rule across the specs so skill/technolog
 Verification: relative links in edited spec files resolve to existing files; `git status` shows only the four spec files modified; data files (README.md, src/**) untouched.
 
 ---
+
+## 2026-09-07 — Normalize skill names to canonical registry
+
+**docs(profile)**
+
+Validated all skill/technology names across README.md and src/** against the canonical registry (root README Skills / Tech Stack).
+
+Normalized (certain equivalence):
+- "Vue.js" → "Vue" in README.md experience index and src/experiences/frontend-developer-danak-corporation/README.md Technologies (registry icon is `vue`; README prose uses Vue/Nuxt).
+- "- Vue / Nuxt" → "- Vue/Nuxt" and "- React / Next" → "- React/Next" in src/experiences/full-stack-developer-self-employed/README.md, src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md, src/projects/tadilo-b2c-booking-platform/README.md — matching the README's dominant unspaced "Vue/Nuxt" / "React/Next" shorthand.
+
+Left unchanged (ambiguous):
+- The "React/Next" and "Vue/Nuxt" shorthand form itself — used consistently in prose everywhere; expanding it would restructure lists, not normalize spelling.
+
+Registry gaps (reported, not fixed):
+- In records but absent from README Tech Stack: Swift, iOS (native-mobile-ios), PHP (full-stack-developer-danak-corporation).
+- Referenced in README prose/indexes but absent from Tech Stack registry lists: GSAP, Motion, Tailwind, Stripe, Vitest, Playwright.
+
+Verification: re-scan for Vue.js/VueJS/NextJS/NodeJS/GreenSock/"Vue / Nuxt"/"React / Next" returns no matches. No JSON/YAML registry introduced.
+
+---
