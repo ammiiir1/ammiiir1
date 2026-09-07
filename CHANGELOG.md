@@ -183,3 +183,11 @@ Period-to-experience mapping: MiroTech projects → mirotech record; dLabel (202
 Validation: all README/experience/project cross-links resolve both ways, no orphans, no stale references to deleted slugs, every Tech Stack name exists in the README canonical registry, periods use YYYY(-MM).
 
 ---
+
+## 2026-09-07 — Simplify README header
+
+**docs(profile)**
+
+User-edited README.md committed as-is: merged the greeting line into a single centered H1 (headline only), dropping the "Hi 👋 I'm Amir" greeting line. No other changes.
+
+---
