@@ -106,3 +106,11 @@ verification: manual diff review against specs/experience.md template (no projec
 ```
 
 ---
+
+## 2026-09-07 — Set canonical skill list for freelance experience and registry
+
+**docs(profile)**
+
+Replaced the freelance experience record's Technologies section with the 11 user-specified canonical skill names (Agentic Workflows, Agentic AI Development, Node.js, React.js, Vue.js, Next.js, Nuxt.js, MongoDB, GreenSock Animation Platform (GSAP), Three.js, Swift (Programming Language)). Registered the genuinely-new canonical names in the root README Tech Stack as plain-text bullet groups (React.js/Vue.js/Next.js/Nuxt.js under Frontend, Node.js/MongoDB under Backend, new Motion & 3D, Native & Mobile, AI & Agentic Development groups); skillicons icon rows preserved untouched. Other records left as-is (consistency sweep found no direct contradictions). Verified all README relative links resolve.
+
+---

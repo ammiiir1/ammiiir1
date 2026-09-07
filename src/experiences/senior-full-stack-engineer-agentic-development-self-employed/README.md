@@ -19,10 +19,17 @@ Freelance full-stack development, planning spec-first and running my own agentic
 
 ## Technologies
 
-- Vue/Nuxt
-- React/Next
+- Agentic Workflows
+- Agentic AI Development
 - Node.js
-- Custom agentic workflows and skills
+- React.js
+- Vue.js
+- Next.js
+- Nuxt.js
+- MongoDB
+- GreenSock Animation Platform (GSAP)
+- Three.js
+- Swift (Programming Language)
 
 ## Relevant Public Links
 

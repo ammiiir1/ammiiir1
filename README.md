@@ -26,8 +26,30 @@ Open to full-time, contract, and freelance opportunities.
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,ts,js,html,css,sass,tailwind,bootstrap" /></p>
 
+- React.js
+- Vue.js
+- Next.js
+- Nuxt.js
+
 **Backend**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" /></p>
+
+- Node.js
+- MongoDB
+
+**Motion & 3D**
+
+- GreenSock Animation Platform (GSAP)
+- Three.js
+
+**Native & Mobile**
+
+- Swift (Programming Language)
+
+**AI & Agentic Development**
+
+- Agentic Workflows
+- Agentic AI Development
 
 **Tools & Workflow**
 <p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,vscode" /></p>
