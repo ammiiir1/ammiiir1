@@ -93,3 +93,16 @@ Registry gaps (reported, not fixed):
 Verification: re-scan for Vue.js/VueJS/NextJS/NodeJS/GreenSock/"Vue / Nuxt"/"React / Next" returns no matches. No JSON/YAML registry introduced.
 
 ---
+
+## 2026-09-07 — Update freelance experience record with detailed copy
+
+**docs(profile)**
+
+Expanded `src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md` with the user-provided freelance copy: added Location (Bucharest, Romania), moved the two spec-first/agentic-workflow items (now verbatim, with their expanded wording) into Achievements & Highlights, and added three verbatim Responsibility bullets (directing AI coding agents, continued hands-on Vue/Nuxt · React/Next · Node.js work, and the new "Working on Swift projects, extending into native mobile development" bullet). Summary replaced with the user's exact sentence; Technologies kept as-is (Swift/iOS are known registry gaps, not added). Root README experience-index line enriched with the location (Bucharest, Romania). Period kept as `2026-02 – Present` per the experience spec's YYYY-MM format rather than the user's "8 mos" duration.
+
+```text
+link check: https://lyralabs.space → 200 OK
+verification: manual diff review against specs/experience.md template (no project lint/typecheck scripts apply to markdown-only change)
+```
+
+---

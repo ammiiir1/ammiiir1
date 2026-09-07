@@ -54,7 +54,7 @@ Open to full-time, contract, and freelance opportunities.
 
 ## 💼 Experience
 
-- [Senior Full-Stack Engineer (Agentic Development)](src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md) @ Self-Employed / Freelance (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
+- [Senior Full-Stack Engineer (Agentic Development)](src/experiences/senior-full-stack-engineer-agentic-development-self-employed/README.md) @ Self-Employed / Freelance · Bucharest, Romania (Feb 2026 – Present): spec-first delivery, running custom agentic workflows across Vue/Nuxt, React/Next, and Node.js
 - [Career Break / Professional Development](src/experiences/career-break-professional-development/README.md) (Dec 2025 – Feb 2026): deliberate upskilling period, deep focus on spec-driven development and agentic AI engineering
 - [Senior Frontend Developer & Team Lead](src/experiences/senior-frontend-developer-team-lead-mirotech/README.md) @ MiroTech, formerly Tadilo (Apr 2022 – Dec 2025): led a team of 5–6 frontend developers across Tadilo, Terminal101, MiroPay, Booking ERP, Easybestell, and Dassfund
 - [Full-Stack Developer](src/experiences/full-stack-developer-self-employed/README.md) @ Self-Employed / Freelance (May 2021 – Apr 2022): multiple clients across Vue/Nuxt, React/Next, and Node.js
