@@ -8,7 +8,7 @@ Multilingual e-commerce website.
 
 ## Overview
 
-Multilingual e-commerce website.
+Multilingual e-commerce website delivered as client work at Danak Corporation. Built as an SSR application with Nuxt.js on the frontend and an Express.js backend backed by MongoDB.
 
 ## Tech Stack
 

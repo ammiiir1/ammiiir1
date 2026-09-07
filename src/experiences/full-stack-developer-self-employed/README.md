@@ -31,7 +31,7 @@ Freelance full-stack development across multiple clients, building and extending
 - End-to-end Testing
 - GreenSock Animation Platform (GSAP)
 - Full-Stack Development
-- Front-end Development
+- Front-End Development
 - JavaScript
 - Vitest
 - PWA

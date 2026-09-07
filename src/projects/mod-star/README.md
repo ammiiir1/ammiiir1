@@ -8,7 +8,7 @@ E-commerce website and accounting web application.
 
 ## Overview
 
-E-commerce website and accounting web application.
+E-commerce website and accounting web application delivered as client work at Danak Corporation. Built with PHP (Laravel) on the backend and MySQL as the database.
 
 ## Tech Stack
 

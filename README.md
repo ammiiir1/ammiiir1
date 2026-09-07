@@ -31,10 +31,10 @@ Open to full-time, contract, and freelance opportunities.
 | Area | Technologies |
 |---|---|
 | Frontend | React.js · Vue.js · Next.js · Nuxt.js · Nuxt3 · Vue3 · TypeScript · JavaScript · HTML · SCSS · Tailwind CSS · Bootstrap · jQuery · Element UI · SPA · SSG · CSR · SSR · PWA · I18n |
-| Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · PHP (Laravel) · PHP · Web Scraping |
+| Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping |
 | Data | MongoDB · Mongoose.js · Firebase · MySQL · Python · XAMPP |
 | State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
-| Motion & 3D | GreenSock Animation Platform (GSAP) · Three.js |
+| Motion & 3D | GreenSock Animation Platform (GSAP) · Motion · Three.js |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift (Programming Language) · SwiftUI |
 | AI & Agentic Development | Agentic AI Development · Agentic Workflows |

@@ -29,7 +29,7 @@ MiroTech (formerly Tadilo). Team Lead for 5 to 6 frontend developers, responsibl
 - Next.js
 - End-to-end Testing
 - GreenSock Animation Platform (GSAP)
-- Front-end Development
+- Front-End Development
 - Tailwind CSS
 - JavaScript
 - Vitest

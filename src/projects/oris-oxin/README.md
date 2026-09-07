@@ -8,7 +8,7 @@ Business website.
 
 ## Overview
 
-Business website.
+Business website for Oris Oxin, delivered as client work at Danak Corporation. Built as an SSR application with Nuxt.js on the frontend and an Express.js backend backed by MongoDB.
 
 ## Tech Stack
 

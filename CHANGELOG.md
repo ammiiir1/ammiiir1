@@ -257,3 +257,21 @@ Verification: grep-count check of every canonical name (0 missing); shields.io b
 Removed the "🧪 Engineering Focus" section (heading + 4 bullets) from README.md. No other changes.
 
 ---
+
+## 2026-09-07 — Apply audit gap fixes to career records and registry
+
+**docs(profile)**
+
+Applied 7 user-decided audit fixes:
+
+1. career-break-professional-development: removed the false claim that the portfolio (LyraLabs Space) was designed/built during Dec 2025–Feb 2026; achievement bullet now says self-initiated spec-driven projects with modern web tooling; Associated Projects link reworded to "personal portfolio, built after this period"; fixed ". writing" typo.
+2. oris-oxin / hima / mod-star: Overviews no longer verbatim duplicates of the short description — each adds one fact-grounded sentence (client work at Danak, role-relevant stack facts).
+3. Asan Service mapping untouched.
+4. README registry: added "Motion" to Motion & 3D row.
+5. README registry: added "Stripe" to Backend & APIs row (Electron/Docker not registered).
+6. specs/career-profile.md slug example: PERMISSION-BLOCKED — edits under specs/** are denied by permission rules; skipped, not worked around.
+7. Normalized "Front-end Development" → "Front-End Development" in mirotech, self-employed, termeh records; also fixed full-stack-developer-danak-corporation which still had one instance despite being assumed canonical.
+
+Verification: grep zero remaining "Front-end Development"; zero remaining portfolio-built-during-career-break claims; Motion and Stripe each present exactly once in the registry; lyralabs-space link target resolves; git status clean of unrelated changes.
+
+---

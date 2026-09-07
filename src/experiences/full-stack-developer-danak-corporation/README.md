@@ -23,7 +23,7 @@ Transitioned to full-stack development and led a major technology migration that
 - Vuex
 - Bootstrap
 - GreenSock Animation Platform (GSAP)
-- Front-end Development
+- Front-End Development
 - JavaScript
 - PWA
 - Redux

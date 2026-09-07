@@ -13,8 +13,8 @@ Used this time deliberately to build hands-on depth in AI-native software develo
 
 ## Achievements & Highlights
 
-- Designed and built my personal portfolio (lyralabs.space) using a spec-driven approach. writing the spec first, then implementing end-to-end with Next.js, Tailwind CSS, GSAP, and Motion
+- Completed several self-initiated projects using a spec-driven approach, writing the spec first and then implementing end to end with modern web tooling
 
 ## Associated Projects
 
-- [LyraLabs Space](../../projects/lyralabs-space/README.md) — the portfolio built during this period has its own project record
+- [LyraLabs Space](../../projects/lyralabs-space/README.md) — personal portfolio, built after this period
