@@ -275,3 +275,11 @@ Applied 7 user-decided audit fixes:
 Verification: grep zero remaining "Front-end Development"; zero remaining portfolio-built-during-career-break claims; Motion and Stripe each present exactly once in the registry; lyralabs-space link target resolves; git status clean of unrelated changes.
 
 ---
+
+## 2026-09-07 — Fix Tadilo slug example in career-profile spec
+
+**docs(specs)**
+
+Fixed the slug example on the "Naming and slug conventions" line of `specs/career-profile.md`: `tadilo-b2c-booking-platform` → `tadilo-b2c-booking-service`, so the example matches the actual project directory name. No other spec content was touched.
+
+---

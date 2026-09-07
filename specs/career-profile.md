@@ -145,7 +145,7 @@ The registry owns the naming; individual records only reference/reuse it.
 
 ## Naming and slug conventions
 
-- Slugs are **lowercase**, **hyphen-separated**, and **descriptive**: e.g. `senior-frontend-developer-team-lead-mirotech`, `tadilo-b2c-booking-platform`.
+- Slugs are **lowercase**, **hyphen-separated**, and **descriptive**: e.g. `senior-frontend-developer-team-lead-mirotech`, `tadilo-b2c-booking-service`.
 - No spaces, underscores, uppercase letters, or special characters in slugs.
 - A slug must be specific enough to be unambiguous among all existing records (include the organization for experiences, and enough of the project name to disambiguate, when needed).
 - Directory names for records are exactly `<slug>/` containing `README.md`.
