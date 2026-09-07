@@ -249,3 +249,11 @@ All ~63 canonical skill names (verified across 72 canonical name strings) remain
 Verification: grep-count check of every canonical name (0 missing); shields.io badge URLs return HTTP 200; section length reduced 100 → 22 lines; no skillicons references remain.
 
 ---
+
+## 2026-09-07 — Remove Engineering Focus section
+
+**docs(profile)**
+
+Removed the "🧪 Engineering Focus" section (heading + 4 bullets) from README.md. No other changes.
+
+---
