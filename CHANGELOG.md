@@ -29,3 +29,15 @@ Restructured the repository per specs/ into a root README (public landing page +
 Validation: script-checked all relative links resolve (README→records, records↔records), no orphan index entries, no asset references (none exist), 8/8 experiences and 8/8 projects linked both ways.
 
 ---
+
+## 2026-09-07 — Refine About section wording
+
+**docs(profile)**
+
+Minor About-section edit in README.md: added a comma in "Today, I build and use" and split the closing sentence into its own paragraph ("Based in Bucharest…" / "Open to full-time, contract, and freelance opportunities."). No factual changes.
+
+```text
+git diff --stat: README.md only, clean tree after commit
+```
+
+---
