@@ -30,16 +30,16 @@ Open to full-time, contract, and freelance opportunities.
 
 | Area | Technologies |
 |---|---|
-| Frontend | React.js · Vue.js · Next.js · Nuxt.js · Nuxt3 · Vue3 · TypeScript · JavaScript · HTML · SCSS · Tailwind CSS · Bootstrap · jQuery · Element UI · SPA · SSG · CSR · SSR · PWA · I18n |
+| Frontend | React.js · Vue.js · Next.js · Nuxt.js · Nuxt3 · Vue3 · TypeScript · JavaScript · HTML · SCSS · Tailwind CSS · Bootstrap · jQuery · Element UI |
+| Rendering & Web Architecture | SPA · SSG · CSR · SSR · PWA · I18n |
 | Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping |
-| Data | MongoDB · Mongoose.js · Firebase · MySQL · Python · XAMPP |
+| Data | MongoDB · Mongoose.js · Firebase · MySQL |
 | State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
 | Motion & 3D | GreenSock Animation Platform (GSAP) · Motion · Three.js |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift (Programming Language) · SwiftUI |
-| AI & Agentic Development | Agentic AI Development · Agentic Workflows |
-| Development Workflow | Front-End Development · Back-End Development · Full-Stack Development · Continuous Integration and Continuous Delivery (CI/CD) · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
-| IT & Infrastructure | Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting |
+| Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · Continuous Integration and Continuous Delivery (CI/CD) · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
+| Platform & Tooling | Python · XAMPP · Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting |
 
 ## Engineering Profile
 
@@ -48,6 +48,14 @@ My background is strongest where frontend complexity meets broader system design
 Over the years, that work has ranged from building full-stack business systems independently to solving performance and SSR issues in large booking platforms, integrating web applications with existing internal software, and creating motion-heavy and real-time 3D experiences.
 
 More recently, I have incorporated agentic development into that engineering process. I build my own workflows and work spec-first, using coding agents for implementation and review while keeping architecture, technical direction, and final decisions under my control.
+
+## 🚀 Selected Projects
+
+- ✈️ **[Tadilo](src/projects/tadilo-b2c-booking-service/README.md)** — B2C flight/hotel booking platform; near-total frontend ownership, real-time WebSocket search architecture, and large-result rendering performance work
+- 💳 **[MiroPay](src/projects/miropay-merchant-panel/README.md)** — payment platform; led the frontend team and personally handled sensitive payment-gateway integration (Stripe, regional/local, bank-specific, crypto)
+- 🛡️ **[Asan Service](src/projects/asan-service/README.md)** — service/warranty management system built solo end to end, integrated with the company's internal inventory/warranty system
+- 🚂 **[Arak Rail](src/projects/arak-rail/README.md)** — full-stack industrial project with a custom steel-grating calculator covering load, stress, deflection, weight, and configuration evaluation
+- 🚀 **[LyraLabs Space](src/projects/lyralabs-space/README.md)** — personal portfolio ([lyralabs.space](https://lyralabs.space)) with a cinematic real-time Three.js splash: motion/timeline choreography and production performance optimization
 
 ## 💼 Experience
 
@@ -131,5 +139,3 @@ More recently, I have incorporated agentic development into that engineering pro
 - LinkedIn: https://linkedin.com/in/ammiiir1
 - Portfolio: https://lyralabs.space
 - Email: ammiiir1@gmail.com
-
-<p align="center">⚡ Building fast, scalable, testable web systems, with agentic workflows built around how I actually work.</p>
