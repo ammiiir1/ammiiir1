@@ -1,4 +1,4 @@
-# Frontend Developer (Internship) @ Termeh
+# Frontend Developer Intern @ Termeh
 
 - **Employment type:** Internship
 - **Location:** Hybrid

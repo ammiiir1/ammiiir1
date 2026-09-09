@@ -16,4 +16,4 @@ Business website for Termeh, built during a frontend internship there. Developed
 
 ## Related Experience
 
-- [Frontend Developer (Internship) @ Termeh](../../experiences/frontend-developer-intern-termeh/README.md)
+- [Frontend Developer Intern @ Termeh](../../experiences/frontend-developer-intern-termeh/README.md)
