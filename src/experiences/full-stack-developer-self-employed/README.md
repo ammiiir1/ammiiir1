@@ -25,7 +25,7 @@ Freelance full-stack development across multiple clients, building and extending
 - Three.js
 - Playwright
 - Vuex
-- Continuous Integration and Continuous Delivery (CI/CD)
+- CI/CD
 - Bootstrap
 - Next.js
 - End-to-end Testing

@@ -23,7 +23,7 @@ MiroTech (formerly Tadilo). Team Lead for 5 to 6 frontend developers, responsibl
 - CSR
 - Vue3
 - Playwright
-- Continuous Integration and Continuous Delivery (CI/CD)
+- CI/CD
 - ReduxTK
 - Bootstrap
 - Next.js

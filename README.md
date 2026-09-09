@@ -38,7 +38,7 @@ Open to full-time, contract, and freelance opportunities.
 | Motion & 3D | GSAP · Motion · Three.js |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift · SwiftUI |
-| Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · Continuous Integration and Continuous Delivery (CI/CD) · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
+| Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · CI/CD · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
 | Platform & Tooling | Python · XAMPP · Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting |
 
 ## Engineering Profile
