@@ -85,9 +85,9 @@ Rules for bundled records:
 The root README's **Skills / Tech Stack** section is **THE canonical registry** of skills and technologies used anywhere in this repository. This is a repository-wide invariant, not a template recommendation.
 
 - Every skill/technology referenced anywhere — root README, `src/experiences/**`, `src/projects/**`, and any future career records — must use the **exact canonical name** defined there: same casing and punctuation (e.g. one spelling of a framework, not several: `Next.js` vs `NextJS` vs `Next JS` vs `next.js`).
-- Canonical names are used **exactly as registered, including any parenthetical qualifier**. The parenthetical is part of the canonical name, not an alias or optional suffix (e.g. `GreenSock Animation Platform (GSAP)` is the canonical full form; `GSAP` alone or `GreenSock Animation Platform` alone is not).
+- Canonical names are used **exactly as registered**. When a registered name includes a parenthetical qualifier, the parenthetical is part of the canonical name, not an alias or optional suffix. `GSAP` is registered under its short form — the full `GreenSock Animation Platform (GSAP)` spelling is not the canonical name in this repository.
 - **Category groups are presentation, not identity.** The registry's category groups (and their names) are part of the README's presentation and may evolve; when skills are regrouped, their canonical names do not change.
-- **Structured lists vs prose.** Structured skill lists (Skills / Tech Stack, Technologies, Tech Stack) must use the exact canonical registry name, parentheticals included; widely recognized short forms (e.g. `GSAP`, `Swift`) are tolerated in running prose where they aid readability.
+- **Structured lists vs prose.** Structured skill lists (Skills / Tech Stack, Technologies, Tech Stack) must use the exact canonical registry name, parentheticals included; widely recognized short forms (e.g. `Swift`) are tolerated in running prose where they aid readability.
 - **No second skill database.** No JSON/YAML registry, no machine-readable skill file. Markdown-first, human-readable.
 - **Repetition is fine.** Records may list skill names in readable Markdown lists. The registry enforces *terminology consistency*, not database normalization. Never replace readable lists with IDs, pointers, variables, generated syntax, or excessive hyperlinks.
 
