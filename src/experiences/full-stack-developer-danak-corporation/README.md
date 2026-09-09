@@ -22,7 +22,7 @@ Transitioned to full-stack development and led a major technology migration that
 - CSR
 - Vuex
 - Bootstrap
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Front-End Development
 - JavaScript
 - PWA

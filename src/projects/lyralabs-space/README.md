@@ -28,7 +28,7 @@ The project was built with my custom agentic development workflow as part of the
 - Next.js
 - TypeScript
 - Tailwind CSS
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Three.js
 - Agentic Workflows
 

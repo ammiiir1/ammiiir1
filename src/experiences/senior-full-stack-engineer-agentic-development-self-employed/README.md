@@ -27,7 +27,7 @@ Freelance full-stack development, planning spec-first and running my own agentic
 - Next.js
 - Nuxt.js
 - MongoDB
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Three.js
 - Swift
 

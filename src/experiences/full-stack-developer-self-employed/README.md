@@ -29,7 +29,7 @@ Freelance full-stack development across multiple clients, building and extending
 - Bootstrap
 - Next.js
 - End-to-end Testing
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Full-Stack Development
 - Front-End Development
 - JavaScript

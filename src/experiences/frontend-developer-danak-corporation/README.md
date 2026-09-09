@@ -18,7 +18,7 @@ Built engaging, animation-heavy web interfaces that became a portfolio showcase 
 ## Technologies
 
 - Vue.js
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Front-End Development
 - Nuxt.js
 

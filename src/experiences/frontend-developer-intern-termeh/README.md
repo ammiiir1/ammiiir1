@@ -17,7 +17,7 @@
 
 - XAMPP
 - Bootstrap
-- GreenSock Animation Platform (GSAP)
+- GSAP
 - Front-End Development
 - JavaScript
 - Element UI

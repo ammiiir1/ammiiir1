@@ -35,7 +35,7 @@ Open to full-time, contract, and freelance opportunities.
 | Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping |
 | Data | MongoDB · Mongoose.js · Firebase · MySQL |
 | State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
-| Motion & 3D | GreenSock Animation Platform (GSAP) · Motion · Three.js |
+| Motion & 3D | GSAP · Motion · Three.js |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift · SwiftUI |
 | Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · Continuous Integration and Continuous Delivery (CI/CD) · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
