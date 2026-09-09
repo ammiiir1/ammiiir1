@@ -29,7 +29,7 @@ Freelance full-stack development, planning spec-first and running my own agentic
 - MongoDB
 - GreenSock Animation Platform (GSAP)
 - Three.js
-- Swift (Programming Language)
+- Swift
 
 ## Relevant Public Links
 

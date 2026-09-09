@@ -18,7 +18,7 @@ A current personal native iOS project. The core functionality is intentionally s
 
 ## Tech Stack
 
-- Swift (Programming Language)
+- Swift
 - SwiftUI
 
 ## Related Experience
