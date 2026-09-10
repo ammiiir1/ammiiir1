@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full-Stack Engineer | 8+ Years | AI-Assisted & Agentic Development | React/Next · Vue/Nuxt · Node.js</h1>
+<h1 align="center">Senior Full-Stack Engineer | AI-Assisted & Agentic Development | React/Next · Vue/Nuxt · Node.js</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ammiiir1&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-8+ years building and shipping production web applications across the full stack: Vue/Nuxt, React/Next.js, and Node.js.
+Building and shipping production web applications across the full stack since 2017, working with Vue/Nuxt, React/Next.js, and Node.js.
 
 I started coding long before AI tooling became part of the workflow, which gave me a strong foundation in understanding systems rather than just generating code. Today, I build and use my own agentic workflows and skills around how I actually work, using AI to move faster while keeping engineering quality, architecture, and technical decisions firmly in my hands.
 
