@@ -2,7 +2,7 @@
 
 Management system for booking projects (customers, staff, support team, etc.).
 
-- **Role:** Lead Frontend Developer
+- **Role:** Frontend Developer
 - **Period:** 2022 – 2025-12
 - **Relationship:** built at MIROTECH GROUP
 

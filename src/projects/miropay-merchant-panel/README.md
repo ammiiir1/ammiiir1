@@ -2,7 +2,7 @@
 
 Merchant dashboard for the MiroPay payments platform.
 
-- **Role:** Frontend Team Lead
+- **Role:** Frontend Developer
 - **Period:** 2025-04 – 2025-12
 - **Relationship:** built at MIROTECH GROUP
 
