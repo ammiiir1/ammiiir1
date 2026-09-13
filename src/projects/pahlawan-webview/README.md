@@ -2,8 +2,8 @@
 
 WebView page for native mobile game.
 
-- **Period:** 2024 – 2025-12
 - **Role:** Frontend Developer
+- **Period:** 2024 – 2025-12
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

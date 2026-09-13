@@ -2,8 +2,8 @@
 
 Management system for the Dassfund project (manage users, staff, business strategies and more).
 
-- **Period:** 2023 – 2023
 - **Role:** Frontend Developer
+- **Period:** 2023 – 2023
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

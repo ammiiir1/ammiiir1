@@ -2,8 +2,8 @@
 
 Admin panel to manage staff, couriers, customers, reports and more in the Easybestell project.
 
-- **Period:** 2023 – 2024
 - **Role:** Frontend Developer
+- **Period:** 2023 – 2024
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

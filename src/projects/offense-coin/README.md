@@ -2,8 +2,8 @@
 
 Financial investment service application.
 
-- **Period:** 2022 – 2022
 - **Role:** Frontend Developer
+- **Period:** 2022 – 2022
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview
