@@ -55,7 +55,7 @@ More recently, I have incorporated agentic development into that engineering pro
 - 💳 **[MiroPay](src/projects/miropay-merchant-panel/README.md)** — payment platform; led the frontend team and personally handled sensitive payment-gateway integration (Stripe, regional/local, bank-specific, crypto)
 - 🛡️ **[Asan Service](src/projects/asan-service/README.md)** — service/warranty management system built solo end to end, integrated with the company's internal inventory/warranty system
 - 🚂 **[Arak Rail](src/projects/arak-rail/README.md)** — full-stack industrial project with a custom steel-grating calculator covering load, stress, deflection, weight, and configuration evaluation
-- 🚀 **[LyraLabs Space](src/projects/lyralabs-space/README.md)** — personal portfolio ([lyralabs.space](https://lyralabs.space)) with a cinematic real-time Three.js splash: motion/timeline choreography and production performance optimization
+- 🚀 **[LyraLabs](src/projects/lyralabs/README.md)** — personal portfolio ([lyralabs.space](https://lyralabs.space)) with a cinematic real-time Three.js splash: motion/timeline choreography and production performance optimization
 
 ## 💼 Experience
 
@@ -96,7 +96,7 @@ More recently, I have incorporated agentic development into that engineering pro
 
 **Personal**
 
-- 🚀 [LyraLabs Space](src/projects/lyralabs-space/README.md) — personal portfolio with a cinematic Three.js splash experience
+- 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal portfolio with a cinematic Three.js splash experience
 - 📱 [Native iOS QR Code Generator](src/projects/native-ios-qr-code-generator/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
 
 **Danak Corporation** (2018 – 2021)

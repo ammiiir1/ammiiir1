@@ -17,4 +17,4 @@ Used this time deliberately to build hands-on depth in AI-native software develo
 
 ## Associated Projects
 
-- [LyraLabs Space](../../projects/lyralabs-space/README.md) — personal portfolio, built after this period
+- [LyraLabs](../../projects/lyralabs/README.md) — personal portfolio, built after this period

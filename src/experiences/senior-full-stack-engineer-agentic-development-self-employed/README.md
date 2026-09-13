@@ -37,5 +37,5 @@ Freelance full-stack development, planning spec-first and running my own agentic
 
 ## Associated Projects
 
-- [LyraLabs Space](../../projects/lyralabs-space/README.md) — portfolio built with the agentic workflow
+- [LyraLabs](../../projects/lyralabs/README.md) — portfolio built with the agentic workflow
 - [Native iOS QR Code Generator](../../projects/native-ios-qr-code-generator/README.md) — current native iOS project
