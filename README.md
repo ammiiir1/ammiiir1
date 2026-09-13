@@ -97,7 +97,7 @@ More recently, I have incorporated agentic development into that engineering pro
 **Personal**
 
 - 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal portfolio with a cinematic Three.js splash experience
-- 📱 [Native iOS QR Code Generator](src/projects/native-ios-qr-code-generator/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
+- 📱 [GenQ](src/projects/genq/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
 
 **Danak Corporation** (2018 – 2021)
 
