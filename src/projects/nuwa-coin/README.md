@@ -3,6 +3,7 @@
 Website for digital currency introduction.
 
 - **Period:** 2022 – 2022
+- **Role:** Frontend Developer
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

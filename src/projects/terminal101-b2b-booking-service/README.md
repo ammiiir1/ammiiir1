@@ -3,6 +3,7 @@
 B2B flight and hotel booking platform built for travel-agency workflows.
 
 - **Period:** 2022 – 2025-12
+- **Role:** Frontend Developer
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

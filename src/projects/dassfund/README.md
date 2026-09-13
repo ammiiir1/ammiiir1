@@ -3,6 +3,7 @@
 Financial investment service.
 
 - **Period:** 2023 – 2023
+- **Role:** Frontend Developer
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

@@ -3,6 +3,7 @@
 Online food ordering application for restaurant customers.
 
 - **Period:** 2023 – 2024
+- **Role:** Frontend Developer
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview

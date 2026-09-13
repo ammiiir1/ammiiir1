@@ -3,6 +3,7 @@
 Restaurant order management application.
 
 - **Period:** 2023 – 2024
+- **Role:** Frontend Developer
 - **Relationship:** built at MIROTECH GROUP
 
 ## Overview
