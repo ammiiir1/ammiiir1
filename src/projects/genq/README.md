@@ -1,6 +1,6 @@
-# GenQ
+# genQ
 
-GenQ is a native iOS application developed by LyraLabs, built entirely with Swift and Apple's native frameworks.
+genQ is a native iOS application developed by LyraLabs, built entirely with Swift and Apple's native frameworks.
 
 - **Role:** iOS Developer
 - **Period:** 2026-08 – Present
@@ -8,7 +8,7 @@ GenQ is a native iOS application developed by LyraLabs, built entirely with Swif
 
 ## Overview
 
-GenQ is a native iOS application developed by LyraLabs, built entirely with Swift and Apple's native frameworks. Designed around Apple's visual and interaction language, the app focuses on fluid motion, polished transitions, tactile interactions, and expressive particle-based animations while maintaining a clean and restrained native experience.
+genQ is a native iOS application developed by LyraLabs, built entirely with Swift and Apple's native frameworks. Designed around Apple's visual and interaction language, the app focuses on fluid motion, polished transitions, tactile interactions, and expressive particle-based animations while maintaining a clean and restrained native experience.
 
 ## Responsibilities & Contributions
 

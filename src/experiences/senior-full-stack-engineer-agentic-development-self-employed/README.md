@@ -38,4 +38,4 @@ Freelance full-stack development, planning spec-first and running my own agentic
 ## Associated Projects
 
 - [LyraLabs](../../projects/lyralabs/README.md) — portfolio built with the agentic workflow
-- [GenQ](../../projects/genq/README.md) — current native iOS project
+- [genQ](../../projects/genq/README.md) — current native iOS project
