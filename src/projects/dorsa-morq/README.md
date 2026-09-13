@@ -2,7 +2,7 @@
 
 Catalog website.
 
-- **Role:** Frontend Developer (modifications & JS features)
+- **Role:** Frontend Developer
 - **Period:** 2018-02 – 2018-04
 - **Relationship:** client work at Danak Corporation
 
