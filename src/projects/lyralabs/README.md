@@ -1,6 +1,6 @@
 # LyraLabs
 
-**Period:** June 2026 – Present  
+**Period:** June 2026 – September 2026  
 **Role:** Full-Stack Developer  
 **Website:** lyralabs.space
 
