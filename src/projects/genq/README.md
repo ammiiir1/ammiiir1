@@ -3,6 +3,7 @@
 GenQ is a native iOS application developed by LyraLabs, built entirely with Swift and Apple's native frameworks.
 
 - **Role:** iOS Developer
+- **Period:** 2026-08 – Present
 - **Relationship:** developed for LyraLabs
 
 ## Overview
