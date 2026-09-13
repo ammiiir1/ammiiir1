@@ -2,7 +2,7 @@
 
 Flight and hotel booking service for consumers.
 
-- **Role:** Frontend Developer (near-total frontend ownership)
+- **Role:** Frontend Developer
 - **Period:** 2022 – 2025-12
 - **Relationship:** built at MIROTECH GROUP
 
