@@ -33,9 +33,9 @@ Freelance full-stack development, planning spec-first and running my own agentic
 
 ## Relevant Public Links
 
-- Portfolio: https://lyralabs.space
+- LyraLabs: https://lyralabs.space
 
 ## Associated Projects
 
-- [LyraLabs](../../projects/lyralabs/README.md) — portfolio built with the agentic workflow
+- [LyraLabs](../../projects/lyralabs/README.md) — personal brand and experimental web platform built with the agentic workflow
 - [genQ](../../projects/genq/README.md) — current native iOS project

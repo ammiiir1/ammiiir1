@@ -35,7 +35,7 @@ Open to full-time, contract, and freelance opportunities.
 | Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping |
 | Data | MongoDB · Mongoose.js · Firebase · MySQL |
 | State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
-| Motion & 3D | GSAP · Motion · Three.js |
+| Motion & 3D | GSAP · Motion · Three.js · React Three Fiber · WebGL |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift · SwiftUI |
 | Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · CI/CD · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
@@ -55,7 +55,8 @@ More recently, I have incorporated agentic development into that engineering pro
 - 💳 **[MiroPay](src/projects/miropay-merchant-panel/README.md)** — payment platform; led the frontend team and personally handled sensitive payment-gateway integration (Stripe, regional/local, bank-specific, crypto)
 - 🛡️ **[Asan Service](src/projects/asan-service/README.md)** — service/warranty management system built solo end to end, integrated with the company's internal inventory/warranty system
 - 🚂 **[Arak Rail](src/projects/arak-rail/README.md)** — full-stack industrial project with a custom steel-grating calculator covering load, stress, deflection, weight, and configuration evaluation
-- 🚀 **[LyraLabs](src/projects/lyralabs/README.md)** — personal portfolio ([lyralabs.space](https://lyralabs.space)) with a cinematic real-time Three.js splash: motion/timeline choreography and production performance optimization
+- 🚀 **[LyraLabs](src/projects/lyralabs/README.md)** — personal brand and experimental web platform ([lyralabs.space](https://lyralabs.space)) with cinematic real-time Three.js experiences and production performance optimization
+- 🖥️ **[Portfolio Website](src/projects/portfolio-website/README.md)** — independently designed and developed personal career and project presentation website
 
 ## 💼 Experience
 
@@ -96,7 +97,8 @@ More recently, I have incorporated agentic development into that engineering pro
 
 **Personal**
 
-- 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal portfolio with a cinematic Three.js splash experience
+- 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal brand and experimental web platform with cinematic Three.js experiences
+- 🖥️ [Portfolio Website](src/projects/portfolio-website/README.md) — personal career and project presentation website
 - 📱 [genQ](src/projects/genq/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
 
 **Danak Corporation** (2018 – 2021)
@@ -137,5 +139,5 @@ More recently, I have incorporated agentic development into that engineering pro
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/ammiiir1
-- Portfolio: https://lyralabs.space
+- LyraLabs: https://lyralabs.space
 - Email: ammiiir1@gmail.com

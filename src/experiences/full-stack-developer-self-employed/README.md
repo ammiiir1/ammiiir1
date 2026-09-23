@@ -64,4 +64,4 @@ Freelance full-stack development across multiple clients, building and extending
 
 ## Relevant Public Links
 
-- Portfolio: https://lyralabs.space
+- LyraLabs: https://lyralabs.space
