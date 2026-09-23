@@ -1,25 +1,27 @@
 # Portfolio Website
 
-A personal career and project presentation website for presenting professional experience, selected projects, technical background, and personal identity through a custom interactive web experience.
+A personal career and project website presenting professional experience, selected work, technical background, and personal identity through a custom interactive experience.
 
 - **Role:** Designer & Developer
 - **Relationship:** independently designed and developed personal project
 
 ## Overview
 
-The Portfolio Website is a standalone presentation project focused on communicating a professional career and selected body of work. It is separate from LyraLabs; its public URL and implementation stack are not recorded in this repository.
+The Portfolio Website is a standalone personal website for presenting a professional profile and selected work. It brings career history, projects, technical background, and personal identity together in a custom-designed interactive experience. It is a separate project from LyraLabs.
 
 ## Responsibilities & Contributions
 
-- Designed the website independently as a personal career and project presentation experience.
-- Defined the information architecture for professional experience, selected projects, and technical background.
-- Developed the frontend presentation, responsive UI, interaction design, and animation/motion layer.
+- Designed and developed the website independently as a personal career and project presentation experience.
+- Defined the information architecture for presenting professional experience, selected work, and technical background.
+- Designed and implemented the responsive user interface, interactions, and motion/animation.
 - Created reusable components to support a consistent interface.
 
 ## Notable Implementation Details
 
-- Established a design system for the website's visual and interaction language.
-- Structured the information architecture around career history, projects, and technical background.
-- Implemented responsive UI and interaction patterns for the presentation experience.
-- Incorporated animation and motion into the custom interactive web experience.
-- Used reusable frontend components to keep the interface consistent.
+- Established a visual and interaction design system for the website.
+- Organized the presentation around career history, selected projects, technical background, and personal identity.
+- Used responsive UI, interactive patterns, motion, and reusable components to create a cohesive presentation experience.
+
+## Public URL
+
+- https://portfolio.lyralabs.space
