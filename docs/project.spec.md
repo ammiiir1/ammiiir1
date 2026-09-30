@@ -8,7 +8,7 @@ This spec defines the exact template and rules for every project record at:
 src/projects/<project-slug>/README.md
 ```
 
-Read [`career-profile.md`](./career-profile.md) first for repository-wide invariants (slugs, linking, public data, unknown fields).
+Read [`global.spec.md`](./global.spec.md) first for repository-wide invariants (slugs, linking, public data, unknown fields).
 
 ## Template
 
@@ -94,7 +94,7 @@ Use this template as the skeleton for every new project record. Required fields 
 
 - Canonical names only — no locally invented aliases, no alternate spellings. Use the exact registered name including any parenthetical qualifier.
 - Structured lists (this Tech Stack section) use exact canonical names; running prose may use widely recognized short forms (e.g. `GSAP`, `Swift`) where they aid readability.
-- Registry-first handling for new skills (see the canonical skill registry rules in [`career-profile.md`](./career-profile.md)).
+- Registry-first handling for new skills (see the canonical skill registry rules in [`global.spec.md`](./global.spec.md)).
 
 ## Asset placement & relative linking
 
@@ -108,7 +108,7 @@ Use this template as the skeleton for every new project record. Required fields 
 
 - A project references a related experience with a **standard relative link** to the experience record: `[Role / Title @ Organization](../../experiences/<experience-slug>/README.md)` (from `src/projects/<slug>/README.md`).
 - Link only experiences that genuinely relate to this project; do not invent relationships.
-- If the experience has no record yet, either note the relationship by name without a link, or create the experience record (following [`experience.md`](./experience.md)) first.
+- If the experience has no record yet, either note the relationship by name without a link, or create the experience record (following [`experience.spec.md`](./experience.spec.md)) first.
 
 ## What belongs where
 
@@ -116,14 +116,14 @@ Use this template as the skeleton for every new project record. Required fields 
 |---|---|
 | **Project record** (this spec) | Everything about the project: full description, role, period, contributions, implementation details, tech stack, links, media. |
 | **Root README** | A one-line summary in the project index: project name and a very short descriptor — linking to the record. No full descriptions. |
-| **Experience record** | The role perspective (see [`experience.md`](./experience.md)), including a one-line link to this project under *Associated Projects*. |
+| **Experience record** | The role perspective (see [`experience.spec.md`](./experience.spec.md)), including a one-line link to this project under *Associated Projects*. |
 
 The project record owns the **project perspective** (what the project is and how it was built); the experience record owns the **role perspective** (what the person did in that position). The same fact may appear in both only as a one-line summary from the other's perspective.
 
 ## Rules recap
 
-- One project per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions. **Exception:** a record may bundle closely related projects when they were introduced as a single line of work in the source and splitting them would require inventing facts — see the bundling exception in [`career-profile.md`](./career-profile.md). Bundled records use a hyphen-joined slug of the member projects and keep each member's facts internally separated.
-- Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`career-profile.md`](./career-profile.md)).
+- One project per directory; slug per [`global.spec.md`](./global.spec.md) naming conventions. **Exception:** a record may bundle closely related projects when they were introduced as a single line of work in the source and splitting them would require inventing facts — see the bundling exception in [`global.spec.md`](./global.spec.md). Bundled records use a hyphen-joined slug of the member projects and keep each member's facts internally separated.
+- Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`global.spec.md`](./global.spec.md)).
 - All content is public by definition; never add non-public information. Public URL and Repository URL sections carry public links only.
-- Tech Stack uses canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`career-profile.md`](./career-profile.md)).
+- Tech Stack uses canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`global.spec.md`](./global.spec.md)).
 - Adding, renaming, or removing a project record requires updating the root README project index in the same change.

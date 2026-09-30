@@ -8,7 +8,7 @@ This spec defines the exact template and rules for every experience record at:
 src/experiences/<experience-slug>/README.md
 ```
 
-Read [`career-profile.md`](./career-profile.md) first for repository-wide invariants (slugs, linking, public data, unknown fields).
+Read [`global.spec.md`](./global.spec.md) first for repository-wide invariants (slugs, linking, public data, unknown fields).
 
 ## Template
 
@@ -68,7 +68,7 @@ Use this template as the skeleton for every new experience record. Required fiel
 | **Achievements & Highlights** | Bullet list. Concrete outcomes and notable work, as known. Omit entirely if none are known. |
 | **Technologies** | Bullet list of technologies actually used in this role. Use **canonical names** from the root README Skills / Tech Stack registry — see the skill naming note below. |
 | **Associated Projects** | See "Referencing projects" below. |
-| **Relevant Public Links** | Public URLs only (see public-data rules in [`career-profile.md`](./career-profile.md)). Never link private or confidential material. |
+| **Relevant Public Links** | Public URLs only (see public-data rules in [`global.spec.md`](./global.spec.md)). Never link private or confidential material. |
 
 ### Career breaks
 
@@ -80,13 +80,13 @@ Career breaks and deliberate upskilling periods are experiences too. Use a headi
 
 - Canonical names only — no locally invented aliases, no alternate spellings. Use the exact registered name including any parenthetical qualifier.
 - Structured lists (this Technologies section) use exact canonical names; running prose may use widely recognized short forms (e.g. `GSAP`, `Swift`) where they aid readability.
-- Registry-first handling for new skills (see the canonical skill registry rules in [`career-profile.md`](./career-profile.md)).
+- Registry-first handling for new skills (see the canonical skill registry rules in [`global.spec.md`](./global.spec.md)).
 
 ## Referencing projects
 
 - An experience references a project with a **standard relative link** to the project record: `[Project Name](../../projects/<project-slug>/README.md)` (from `src/experiences/<slug>/README.md`).
 - Follow the link with a **one-line summary** — that is the maximum. **Do not duplicate full project descriptions.** The project record is the single source of truth for the project.
-- If a project has no record yet, do not fabricate a summary in its place — either note the project by name without a link, or create the project record (following [`project.md`](./project.md)) first.
+- If a project has no record yet, do not fabricate a summary in its place — either note the project by name without a link, or create the project record (following [`project.spec.md`](./project.spec.md)) first.
 
 ## What belongs where
 
@@ -94,14 +94,14 @@ Career breaks and deliberate upskilling periods are experiences too. Use a headi
 |---|---|
 | **Experience record** (this spec) | Everything about the role: full dates, employment type, location, overview, responsibilities, achievements, technologies, links to associated projects, public links. |
 | **Root README** | A one-line summary in the experience index: role/title, organization, period, and a very short descriptor — linking to the record. No full responsibilities or achievements. |
-| **Project record** | Everything about the project itself (see [`project.md`](./project.md)), including a link back to this experience under *Related Experience*. |
+| **Project record** | Everything about the project itself (see [`project.spec.md`](./project.spec.md)), including a link back to this experience under *Related Experience*. |
 
 The experience record owns the **role perspective** (what the person did in this position); the project record owns the **project perspective** (what the project is and how it was built). The same fact may appear in both only as a one-line summary from the other's perspective.
 
 ## Rules recap
 
-- One experience per directory; slug per [`career-profile.md`](./career-profile.md) naming conventions.
-- Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`career-profile.md`](./career-profile.md)).
+- One experience per directory; slug per [`global.spec.md`](./global.spec.md) naming conventions.
+- Never guess, infer, embellish, or invent — leave unknown fields out or mark them unknown (see [`global.spec.md`](./global.spec.md)).
 - All content is public by definition; never add non-public information.
-- Technologies use canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`career-profile.md`](./career-profile.md)).
+- Technologies use canonical skill names from the root README registry — no local aliases (see "Skill naming" above and [`global.spec.md`](./global.spec.md)).
 - Adding, renaming, or removing an experience record requires updating the root README experience index in the same change.

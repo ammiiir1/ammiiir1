@@ -2,7 +2,7 @@
 
 schema: 1
 
-These rules apply to the entire repository. The per-record templates live in [`experience.md`](./experience.md) and [`project.md`](./project.md).
+These rules apply to the entire repository. The per-record templates live in [`experience.spec.md`](./experience.spec.md) and [`project.spec.md`](./project.spec.md).
 
 ## Content types and where they live
 
@@ -13,7 +13,7 @@ These rules apply to the entire repository. The per-record templates live in [`e
 | Project records | `src/projects/<project-slug>/README.md` | The full, authoritative record of one project (bundled records allowed — see the bundling exception below). |
 | Project assets | `src/projects/<project-slug>/assets/` | Media belonging to a project (only when assets exist). |
 | CHANGELOG | `/CHANGELOG.md` | Workflow/bookkeeping artifact — outside the career-data rules. |
-| Specs | `specs/` | Rules only — never career data. |
+| Specs | `docs/specs/` | Rules only — never career data. |
 
 ## Root README responsibilities
 
@@ -41,7 +41,7 @@ The root README must stay concise. Depth belongs in the records, not the landing
 
 Each `src/experiences/<experience-slug>/README.md`:
 
-- is the **full, authoritative record** of one role or position (see [`experience.md`](./experience.md) for the template),
+- is the **full, authoritative record** of one role or position (see [`experience.spec.md`](./experience.spec.md) for the template),
 - holds everything known about that experience: dates, responsibilities, achievements, technologies, related projects,
 - links to related project records rather than duplicating them,
 - is referenced from the root README's experience index.
@@ -50,7 +50,7 @@ Each `src/experiences/<experience-slug>/README.md`:
 
 Each `src/projects/<project-slug>/README.md`:
 
-- is the **full, authoritative record** of one project (see [`project.md`](./project.md) for the template),
+- is the **full, authoritative record** of one project (see [`project.spec.md`](./project.spec.md) for the template),
 - holds everything known about that project: description, role, contributions, tech stack, links, media,
 - links to related experience records rather than duplicating them,
 - is referenced from the root README's project index.
@@ -173,11 +173,11 @@ The registry owns the naming; individual records only reference/reuse it.
 
 ## Updating this repository (for future agents and humans)
 
-1. **Read the specs first** — this file plus the relevant template spec (`experience.md` / `project.md`) before touching any record.
+1. **Read the specs first** — this file plus the relevant template spec (`experience.spec.md` / `project.spec.md`) before touching any record.
 2. **Follow the templates** exactly; do not invent new sections or reorder them.
 3. **Keep indexes consistent**: adding, renaming, or removing a record under `src/` must be reflected in the root README's experience/project index in the same change.
 4. **Keep links consistent**: update any record that references a changed or moved record.
-5. Never edit `specs/` to accommodate a content change — specs change only when the rules themselves change.
+5. Never edit `docs/specs/` to accommodate a content change — specs change only when the rules themselves change.
 
 ## Consistency expectations
 
