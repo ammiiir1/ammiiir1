@@ -2,7 +2,7 @@
 
 Bilingual (Persian/English) marketing website for the ROLING RACER racing-fuel brand — hero, brand statement, product index, engineering, about, closing statement, and contact footer, one page per locale.
 
-- **Role:** Developer
+- **Role:** Frontend Developer
 - **Period:** 2026-09-25 – 2026-09-30
 - **Relationship:** client work
 
