@@ -100,6 +100,7 @@ More recently, I have incorporated agentic development into that engineering pro
 - 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal brand and experimental web platform with cinematic Three.js experiences
 - 🖥️ [Portfolio Website](src/projects/portfolio-website/README.md) — personal career and project presentation website
 - 📱 [genQ](src/projects/genq/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
+- ⛽ [Roling Racer](src/projects/roling-racer/README.md) — bilingual static marketing website for a racing-fuel brand ([rolingracer.ir](https://rolingracer.ir/en))
 
 **Danak Corporation** (2018 – 2021)
 
