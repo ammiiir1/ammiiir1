@@ -1,6 +1,6 @@
 # Lyra CodeVision (LyraCV)
 
-Local-first repository intelligence system for AI coding agents, providing structural code understanding, relationship analysis, and efficient repository retrieval.
+Fully offline, local-first repository intelligence system for AI coding agents, providing structural code understanding, relationship analysis, and efficient repository retrieval.
 
 - **Role:** Creator & Software Engineer
 - **Period:** 2026-10 – Present
@@ -8,7 +8,7 @@ Local-first repository intelligence system for AI coding agents, providing struc
 
 ## Overview
 
-Lyra CodeVision (LyraCV) is a local-first developer tool designed to help AI coding agents understand repository structure, code relationships, and the potential impact of changes without unnecessarily reading entire files.
+Lyra CodeVision (LyraCV) is a fully offline, local-first developer tool designed to help AI coding agents understand repository structure, code relationships, and the potential impact of changes without unnecessarily reading entire files.
 
 Unlike conventional code RAG systems focused primarily on semantic similarity, LyraCV builds a structural understanding of repositories, connecting symbol definitions, references, callers, dependencies, imports, and tests.
 
