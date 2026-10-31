@@ -8,7 +8,7 @@ Fully offline, local-first repository intelligence system for AI coding agents, 
 
 ## Overview
 
-Lyra CodeVision (LyraCV) is a fully offline, local-first developer tool designed to help AI coding agents understand repository structure, code relationships, and the potential impact of changes without unnecessarily reading entire files.
+Lyra CodeVision (LyraCV) is a fully offline, local-first developer tool built to give AI coding agents a richer, more complete understanding of a repository than they would gather by reading files one at a time. Agents query it for structure, code relationships, and the likely impact of a change instead of reading entire files unnecessarily, which keeps token usage down and lets them reach working changes faster.
 
 Unlike conventional code RAG systems focused primarily on semantic similarity, LyraCV builds a structural understanding of repositories, connecting symbol definitions, references, callers, dependencies, imports, and tests.
 
@@ -28,7 +28,7 @@ LyraCV is designed to complement existing coding agents rather than replace them
 
 ## Notable Implementation Details
 
-- **Structural code intelligence:** Built an AST-aware indexing system using Tree-sitter to extract symbols, definitions, references, imports, and typed relationships. The resulting repository graph supports caller analysis, dependency traversal, and change-impact investigation.
+- **Structural code intelligence:** Built an AST-aware indexing system using Tree-sitter to extract symbols, definitions, references, imports, and typed relationships. The resulting repository graph supports caller analysis, dependency traversal, and change-impact investigation, so an agent can judge what its changes will affect.
 - **Multi-language indexing:** Implemented support for JavaScript, TypeScript, Vue.js, Rust, Swift, Objective-C, C/C++, HTML, and stylesheet languages, including framework-specific relationships and compiler-assisted resolution.
 - **Multi-strategy retrieval:** Combined lexical (FTS5/BM25), semantic, fuzzy, prefix, stemming, and trigram search using Reciprocal Rank Fusion (RRF), with targeted symbol inspection for retrieving source code only when necessary.
 - **Local AI infrastructure:** Integrated lightweight, 384-dimensional BGE embeddings through FastEmbed and ONNX Runtime, with SQLite, FTS5, and sqlite-vec providing embedded search and vector storage.
