@@ -21,7 +21,7 @@ LyraCV is designed to complement existing coding agents rather than replace them
 - Conceived the product and defined its technical vision, architecture, and development direction.
 - Designed and developed a modular Rust-based system for repository indexing, structural analysis, and code retrieval.
 - Built the project using specification-driven, AI-assisted development workflows while maintaining ownership of architecture, engineering decisions, and technical validation.
-- Developed a local-first architecture with embedded storage, local inference, and no dependency on hosted AI APIs or external databases for retrieval.
+- Developed a local-first architecture with embedded storage and local inference, requiring no hosted AI APIs, external databases, or internet connection.
 - Integrated repository intelligence into AI coding environments through MCP and dedicated agent integrations.
 - Developed desktop integration and background-service management across macOS, Windows, and Linux.
 - Directed performance optimization, incremental indexing, retrieval evaluation, and automated testing.
@@ -30,12 +30,13 @@ LyraCV is designed to complement existing coding agents rather than replace them
 
 - **Structural code intelligence:** Built an AST-aware indexing system using Tree-sitter to extract symbols, definitions, references, imports, and typed relationships. The resulting repository graph supports caller analysis, dependency traversal, and change-impact investigation, so an agent can judge what its changes will affect.
 - **Multi-language indexing:** Implemented support for JavaScript, TypeScript, Vue.js, Rust, Swift, Objective-C, C/C++, HTML, and stylesheet languages, including framework-specific relationships and compiler-assisted resolution.
-- **Multi-strategy retrieval:** Combined lexical (FTS5/BM25), semantic, fuzzy, prefix, stemming, and trigram search using Reciprocal Rank Fusion (RRF), with targeted symbol inspection for retrieving source code only when necessary.
-- **Local AI infrastructure:** Integrated lightweight, 384-dimensional BGE embeddings through FastEmbed and ONNX Runtime, with SQLite, FTS5, and sqlite-vec providing embedded search and vector storage.
+- **Multi-strategy retrieval:** Combined six retrieval strategies — lexical (FTS5/BM25), semantic, fuzzy, prefix, stemming, and trigram search — using Reciprocal Rank Fusion (RRF), with targeted symbol inspection for retrieving source code only when necessary.
+- **Local AI infrastructure:** Integrated lightweight, 384-dimensional BGE embeddings through FastEmbed and ONNX Runtime, with SQLite, FTS5, and sqlite-vec providing embedded search and vector storage, keeping indexing, search, and embedding inference entirely on the user's machine.
 - **Context-efficient retrieval:** Designed metadata-first search results, bounded source inspection, reference snippets, and paginated responses to minimize unnecessary code exposure and LLM context consumption.
 - **Incremental indexing:** Implemented change detection, reusable extraction and resolution results, embedding reuse, and persistent background indexing jobs to avoid redundant processing.
-- **Agent integration:** Exposed repository intelligence through a local HTTP MCP server with 15 tools, a dedicated CLI, and integrations for OpenCode, Claude Code, and Codex.
-- **Desktop architecture:** Developed a SwiftUI macOS menu-bar application with core-process supervision, background job monitoring, and live MCP traffic inspection, alongside native system-tray implementations for Windows and Linux.
+- **Agent integration:** Exposed repository intelligence through a local HTTP MCP server with 15 tools spanning code search, symbol inspection, and impact analysis, a dedicated CLI, and integration plugins for OpenCode, Claude Code, and Codex with harness-aware setup and user-approved automatic installation.
+- **Desktop architecture:** Developed a SwiftUI macOS menu-bar application with core-process supervision, background job monitoring, and live MCP traffic inspection, alongside native system-tray implementations for Windows and Linux; full native desktop interfaces for those platforms are planned.
+- **Packaging & distribution:** Packaged the native macOS desktop app, Rust core, and MCP server as a `.pkg` installer with an optional CLI; Homebrew Cask (desktop) and Formula (CLI) distribution are planned.
 
 ## Tech Stack
 
