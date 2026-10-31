@@ -32,14 +32,14 @@ Open to full-time, contract, and freelance opportunities.
 |---|---|
 | Frontend | React.js · Vue.js · Next.js · Nuxt.js · Nuxt3 · Vue3 · TypeScript · JavaScript · HTML · SCSS · Tailwind CSS · Bootstrap · jQuery · Element UI |
 | Rendering & Web Architecture | SPA · SSG · CSR · SSR · PWA · I18n |
-| Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping |
-| Data | MongoDB · Mongoose.js · Firebase · MySQL |
+| Backend & APIs | Node.js · Express.js · REST APIs · GraphQL · Socket.io · WebSocket · Stripe · PHP (Laravel) · PHP · Web Scraping · Rust · Tokio · Axum · HTTP |
+| Data | MongoDB · Mongoose.js · Firebase · MySQL · SQLite · FTS5 · sqlite-vec · FastEmbed · ONNX Runtime · BGE-small-en-v1.5 |
 | State Management | React Context · Zustand · ReduxTK · Redux · Vuex · Pinia |
 | Motion & 3D | GSAP · Motion · Three.js · React Three Fiber · WebGL |
 | Testing | Playwright · Jest · React Testing Library · Vitest · End-to-end Testing · Unit Testing |
 | Mobile & Desktop | Capacitor · React Native · Swift · SwiftUI |
-| Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · CI/CD · Continuous Integration (CI) · Continuous Delivery (CD) · Git |
-| Platform & Tooling | Python · XAMPP · Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting |
+| Development Workflow | Agentic AI Development · Agentic Workflows · Front-End Development · Back-End Development · Full-Stack Development · CI/CD · Continuous Integration (CI) · Continuous Delivery (CD) · Git · Model Context Protocol (MCP) · GitHub Actions |
+| Platform & Tooling | Python · XAMPP · Technical Support · Computer Networking · Software Troubleshooting · Windows · Linux · macOS · Computer Hardware · Network Switches · Computer Repair · Computer Hardware Troubleshooting · Tree-sitter · AST Parsing · CLI Development |
 
 ## Engineering Profile
 
@@ -100,6 +100,7 @@ More recently, I have incorporated agentic development into that engineering pro
 - 🚀 [LyraLabs](src/projects/lyralabs/README.md) — personal brand and experimental web platform with cinematic Three.js experiences
 - 🖥️ [Portfolio Website](src/projects/portfolio-website/README.md) — personal career and project presentation website
 - 📱 [genQ](src/projects/genq/README.md) — native iOS QR code generator with a custom UI/UX focus (in development)
+- 🔍 [Lyra CodeVision (LyraCV)](src/projects/lyra-codevision/README.md) — local-first repository intelligence system for AI coding agents
 - ⛽ [Roling Racer](src/projects/roling-racer/README.md) — bilingual static marketing website for a racing-fuel brand ([rolingracer.ir](https://rolingracer.ir/en))
 
 **Danak Corporation** (2018 – 2021)

@@ -39,4 +39,5 @@ Freelance full-stack development, planning spec-first and running my own agentic
 
 - [LyraLabs](../../projects/lyralabs/README.md) — personal brand and experimental web platform built with the agentic workflow
 - [genQ](../../projects/genq/README.md) — current native iOS project
+- [Lyra CodeVision (LyraCV)](../../projects/lyra-codevision/README.md) — local-first repository intelligence system for AI coding agents
 - [Roling Racer](../../projects/roling-racer/README.md) — bilingual static marketing website for a racing-fuel brand
