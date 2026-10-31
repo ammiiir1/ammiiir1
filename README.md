@@ -51,6 +51,7 @@ More recently, I have incorporated agentic development into that engineering pro
 
 ## 🚀 Selected Projects
 
+- 🔍 **[Lyra CodeVision (LyraCV)](src/projects/lyra-codevision/README.md)** — fully offline repository intelligence system for AI coding agents; Rust core, structural code graphs, multi-strategy retrieval, and MCP integration
 - ✈️ **[Tadilo](src/projects/tadilo-b2c-booking-service/README.md)** — B2C flight/hotel booking platform; near-total frontend ownership, real-time WebSocket search architecture, and large-result rendering performance work
 - 💳 **[MiroPay](src/projects/miropay-merchant-panel/README.md)** — payment platform; led the frontend team and personally handled sensitive payment-gateway integration (Stripe, regional/local, bank-specific, crypto)
 - 🛡️ **[Asan Service](src/projects/asan-service/README.md)** — service/warranty management system built solo end to end, integrated with the company's internal inventory/warranty system
